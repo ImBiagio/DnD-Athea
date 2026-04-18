@@ -1,3 +1,7 @@
+> [!infobox]
+> # Valthaken
+> *I [[Valthaken]] non sono soldati, sono estensioni fisiche della volontà di [[Alatar]]. Agiscono nell'ombra per eliminare minacce che l'esercito regolare non può toccare o per svolgere incarichi che l'...*
+
 **Classificazione:** Ordine Segreto. 
 **Sede Operativa:** [[Torre di Heatcliff]] (Addestramento), Torre del Sapere (Comando) [[Città di Teja]]. 
 **Fedeltà:** Esclusiva all'Arcimago [[Alatar]]. 

@@ -1,10 +1,13 @@
+> [!infobox]
+> # Città di Teja
+> *L'architettura di [[Città di Teja|Teja]] è definita "Brutalismo Arcano": strutture massicce di ferro rinforzato, ottone lucidato e pietra scura, integrate con cristalli pulsanti e tubature a vista che...*
 
 **Capitale dell'[[Impero di Trivellion]]**
 
 **Popolazione:** Stimata oltre 400 mila (inclusi Fazioni/[[Impero di Trivellion|Trivellion]]/[[Forgiati]] e residenti non registrati dei sobborghi). **Governo:** Sede del Trono [[Re Tybalt IV]] e del Consiglio Arcano [[Alatar]].
 
 ### [[Panoramica]]
-!AMBIENCE - [[Città di Teja|Teja]].png
+
 [[Città di Teja|Teja]] è la manifestazione fisica dell'ideologia di [[Impero di Trivellion|Trivellion]]: una metropoli tentacolare dove magia arcana e ingegneria industriale si fondono in un'unica, pulsante entità. Costruita su un altopiano strategico che domina le pianure orientali, la città è perennemente avvolta da una cappa di vapore alchemico e fumo di fornace, squarciata dalle luci perpetue delle lampade a [[Eterite]]. È una città di contrasti vertiginosi, dove il lusso sfrenato dell'élite magocratica si erge letteralmente sopra la miseria delle masse operaie.
 
 ### Urbanistica e Architettura

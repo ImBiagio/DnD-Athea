@@ -1,3 +1,6 @@
+> [!infobox]
+> # Terre degli Ogre del Nord
+> *La regione è una penisola di ghiaccio e roccia all'estremo nord-est, separata dal resto del continente da scogliere a picco e dal mare tempestoso. È un luogo duro, dove la debolezza non è tollerata. L...*
 
 # Terre degli Ogre (Il Dominio del Nord-Est)
 

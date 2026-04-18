@@ -1,3 +1,7 @@
+> [!infobox]
+> # Foresta di Rata
+> *Più piccola di [[Foresta di Brun|Brun]], segna il confine climatico, salendo verso le montagne. Qui gli alberi sono conifere scure e l'aria è sempre fredda....*
+
 Più piccola di [[Foresta di Brun|Brun]], segna il confine climatico, salendo verso le montagne. Qui gli alberi sono conifere scure e l'aria è sempre fredda.
 
 - Atmosfera: È un luogo di caccia e sopravvivenza.

@@ -1,4 +1,6 @@
-
+> [!infobox]
+> # Rovine di Asmodeus
+> *A differenza delle rovine caotiche o distrutte dal tempo, questo luogo è inquietantemente intatto e preservato. L'architettura non mostra segni di erosione, a dimostrazione della natura eterna e immut...*
 
 ### Descrizione del Luogo
 

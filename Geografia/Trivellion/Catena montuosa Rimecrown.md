@@ -1,3 +1,6 @@
+> [!infobox]
+> # Catena montuosa Rimecrown
+> *I Monti [[Catena montuosa Rimecrown|Rimecrown]] prendono il nome dal fenomeno atmosferico che li caratterizza: le vette sono costantemente avvolte da una nube di cristalli di ghiaccio che, riflettendo...*
 
 **Posizione:** Confine orientale delle Terre degli Ogre.
 **Altitudine:** Medio alta (le vette superano i 3.000 metri). **Abitanti:** Giganti del Gelo, Giganti delle Nubi (rarissimi).

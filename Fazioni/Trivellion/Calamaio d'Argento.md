@@ -1,3 +1,6 @@
+> [!infobox]
+> # Calamaio d'Argento
+> *Il [[Calamaio d'Argento]] è un'organizzazione segreta che opera nelle ombre di [[Impero di Trivellion|Trivellion]]. Agli occhi del popolo, sono eroi romantici che rubano ai ricchi e sabotano le fabbri...*
 
 **Tipologia:** Organizzazione di Spionaggio / Resistenza Rivoluzionaria.
 **Sede:** Nessuna (Decentralizzata). 
@@ -75,4 +78,3 @@ Un calamaio rovesciato da cui esce inchiostro argentato che forma una catena spe
 
 ## Overview
 Il **[[Calamaio d'Argento]]** è una rete clandestina di cantastorie, bardi, inventori ribelli e giornalisti liberi che si oppongono alla censura imposta sia dai dogmi d'[[Regno di Avalon|Avalon]] che dalla rigida sicurezza di [[Impero di Trivellion|Trivellion]]. Rilasciano pamphlet sotterranei, rivelando segreti di stato, abusi sulle miniere di [[Terre di Khazad-Thul|Khazad-Thul]] e le reali conseguenze dell'[[Incidente di Illand]].
-

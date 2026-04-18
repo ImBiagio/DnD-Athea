@@ -1,3 +1,6 @@
+> [!infobox]
+> # Regno di Avalon
+> *Il [[Regno di Avalon]] è fondato sui pilastri della spiritualità, della fede e della ferrea disciplina. Caratterizzato da una linea politica conservatrice, [[Regno di Avalon|Avalon]] preserva i princi...*
 
 ## Overview
 Il [[Regno di Avalon]] è fondato sui pilastri della spiritualità, della fede e della ferrea disciplina. Caratterizzato da una linea politica conservatrice, [[Regno di Avalon|Avalon]] preserva i principi ancestrali e considera l'addestramento militare un dovere civico fondamentale. 

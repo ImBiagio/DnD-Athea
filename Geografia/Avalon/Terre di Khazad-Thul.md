@@ -1,3 +1,7 @@
+> [!infobox]
+> # Terre di Khazad-Thul
+> *EX Regno di [[Terre di Khazad-Thul|Khazad-Thul]]...*
+
 EX Regno di [[Terre di Khazad-Thul|Khazad-Thul]]
 
 Regione montuosa e vulcanica a est.

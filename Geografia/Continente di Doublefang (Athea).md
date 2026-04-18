@@ -1,3 +1,6 @@
+> [!infobox]
+> # Continente di Doublefang (Athea)
+> *Il Continente di Doublefang è la massa terrestre principale conosciuta su Athea. È caratterizzato da una mappa divisa politicamente tra le grandi potenze mondiali, forgiate dopo la catastrofica Guerra...*
 
 ## Overview
 Il Continente di Doublefang è la massa terrestre principale conosciuta su Athea. È caratterizzato da una mappa divisa politicamente tra le grandi potenze mondiali, forgiate dopo la catastrofica Guerra dell'[[Eterite]]. 

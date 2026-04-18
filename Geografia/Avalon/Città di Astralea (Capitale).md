@@ -1,3 +1,7 @@
+> [!infobox]
+> # Città di Astralea (Capitale)
+> *La "Città d'Oro", sede del Re e quartier generale dell'ALA (Associazione Libera Avventurieri)....*
+
 La "Città d'Oro", sede del Re e quartier generale dell'ALA (Associazione Libera Avventurieri).
 
 Descrizione: Astralea è una metropoli costruita In legno, muratura e inserti dorati, alla base del [[Crann Bethadh]] (l'Albero della Vita). Le radici dell'albero formano le fondamenta della città e i suoi rami, visibili da chilometri, brillano di notte illuminando le strade.

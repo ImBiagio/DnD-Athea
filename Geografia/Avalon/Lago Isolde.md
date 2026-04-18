@@ -1,3 +1,7 @@
+> [!infobox]
+> # Lago Isolde
+> *Un lago di acque cristalline che non ghiaccia mai, nonostante le temperature rigide della zona....*
+
 Un lago di acque cristalline che non ghiaccia mai, nonostante le temperature rigide della zona.
 
 - Il Villaggio: Munculs è un piccolo borgo di pescatori che vive in simbiosi col lago.

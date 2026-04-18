@@ -1,3 +1,7 @@
+> [!infobox]
+> # Natura
+> *In Athea, l'ambiente non è solo uno sfondo inerte. La terra, l'acqua e il cielo sono intrisi di Antica Magia....*
+
 ## Geologia
 
 In Athea, l'ambiente non è solo uno sfondo inerte. La terra, l'acqua e il cielo sono intrisi di Antica Magia.

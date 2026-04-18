@@ -1,3 +1,6 @@
+> [!infobox]
+> # Illand
+> *Oggi è un territorio formalmente sotto la giurisdizione dell'[[Impero di Trivellion]], ma di fatto è anarchico, battuto da tempeste di Miasma Trasmutativo e infestato da aberrazioni distorte dalle ene...*
 
 ## Overview
 [[Illand]] era un tempo una regione rigogliosa, ma fu totalmente devastata dall'[[Incidente di Illand]] nel 760 A.E. a causa della detonazione della Lacrima di Onice.

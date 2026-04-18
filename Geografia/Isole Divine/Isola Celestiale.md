@@ -1,3 +1,6 @@
+> [!infobox]
+> # Isola Celestiale
+> *Un'isola avvolta da una perenne nebbia bianca, situata ai confini estremi delle mappe nautiche....*
 
 Un'isola avvolta da una perenne nebbia bianca, situata ai confini estremi delle mappe nautiche.
 

@@ -1,3 +1,7 @@
+> [!infobox]
+> # Foresta di Brun
+> *Una foresta fitta e sempreverde, resa rigogliosa dall'umidità marina e da una magia vitale palpabile....*
+
 Una foresta fitta e sempreverde, resa rigogliosa dall'umidità marina e da una magia vitale palpabile.
 
 - Abitanti: Governata dal clan di Gnomi Gripyn, maestri dell'illusione che nascondono i loro villaggi nelle cortecce degli alberi.

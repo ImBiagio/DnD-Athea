@@ -1,3 +1,7 @@
+> [!infobox]
+> # Terre Draconiche
+> *- **Governo (Ex-Teocrazia):** Un tempo governata dai sommi sacerdoti, dopo una recente guerra civile il potere è passato a una **Giunta Militare** ("Le Scaglie di Ferro"). La religione è ancora forte,...*
+
 **Posizione:** Regione cuscinetto situata a nord dell'[[Impero di Trivellion]] e a sud delle Terre degli Ogre. 
 **Popolazione:** Dragonidi (Cromatici a Ovest, Metallici a Est). 
 **Geografia:** Divisa nettamente in due biomi: le 

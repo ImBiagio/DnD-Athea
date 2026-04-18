@@ -11,10 +11,14 @@
             "id": "3a085dcb3bc3de34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personaggi/Alatar.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Alatar"
             }
           }
         ]
@@ -199,11 +203,23 @@
   },
   "active": "3a085dcb3bc3de34",
   "lastOpenFiles": [
+    "Fazioni/Trivellion/Le Colonie Penali (I Ceppi).md",
+    "Fazioni/Trivellion/ÈNCOUNTER - Valthaken.png",
+    "Fazioni/Trivellion/Valthaken.md",
+    "Mostruosità/Forgiati.md",
+    "move_images.py",
+    "Mostruosità/Leviustro.md",
+    "Fazioni/Trivellion/I Giganti di Hrimgard.md",
+    "Fazioni/Trivellion/Calamaio d'Argento.md",
+    "Fazioni/Avalon/Associazione Libera Avventurieri (ALA).md",
+    "Fazioni/Avalon/Alsàryen.md",
+    "make_infoboxes.py",
+    "dump.json",
+    "extract.py",
     "Fazioni/Trivellion/Accademia.md",
     "Geografia/Trivellion/Illand.md",
     "Campagna 2/Sessione 0.md",
     "Campagna 2/Schermo del Master Teja-Trivellion.md",
-    "Mostruosità/Forgiati.md",
     "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
     "process_links.py",
     "link_fixer.py",
@@ -219,23 +235,14 @@
     "Artefatti/Ferroquercia.md",
     "Artefatti/Eterite.md",
     "Artefatti/Eteracciaio.md",
-    "Artefatti/Crann Bethadh.md",
     "Campagna 2/Workflow Campagna 2.canvas",
-    "Trivellion.md",
     "Senza nome 1.canvas",
-    "2026-04-18.md",
     "Senza nome.canvas",
     "Canvas.canvas",
-    "Personaggi/Yavanna.md",
-    "Personaggi/Vorgath.md",
-    "Personaggi/Vladimir.md",
-    "Personaggi/Tixie Bullone.md",
-    "Personaggi/Thomas lo Scaltro.md",
     "Geografia/Mappa.jpg",
     "Geografia/Trivellion/Trivellion (stemma).png",
     "Geografia/Trivellion/AMBIENCE - Teja.png",
     "Geografia/Trivellion/AMBIENCE - Kronaria.png",
-    "Fazioni/Trivellion/ÈNCOUNTER - Valthaken.png",
     "Senza nome.base",
     "Senza nome 1.base",
     "Geografia/Avalon/Avalon (stemma).png",
@@ -244,10 +251,6 @@
     "Personaggi/AMBIENCE - Ingranaggi di Trixie 1.png",
     "Personaggi/AMBIENCE - Calice di Eterite 1.png",
     "Fazioni/Trivellion",
-    "Fazioni/Avalon",
-    "Fazioni/Alfheim",
-    "Cosmologi",
-    "Geografia/Isole Divine",
-    "Geografia/Trivellion/Isole"
+    "Fazioni/Avalon"
   ]
 }

@@ -1,3 +1,6 @@
+> [!infobox]
+> # Le Colonie Penali (I Ceppi)
+> *Affiliazione:** [[Impero di Trivellion]] (Proprietà dello Stato)....*
 
 **Tipologia:** Forza Lavoro Forzata / Prigionieri di Stato. 
 **Sede:** Accampamenti sparsi e mobili all'interno della [[Foresta del Ferro]]. **

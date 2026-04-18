@@ -1,3 +1,7 @@
+> [!infobox]
+> # Foresta del Ferro
+> *La [[Foresta del Ferro]] segna il confine naturale dove l'urbanizzazione frenetica di [[Città di Teja|Teja]] inizia a diradarsi. È un luogo cupo, caratterizzato da alberi giganteschi con cortecce grig...*
+
 ### Descrizione e Risorse
 
 La [[Foresta del Ferro]] segna il confine naturale dove l'urbanizzazione frenetica di [[Città di Teja|Teja]] inizia a diradarsi. È un luogo cupo, caratterizzato da alberi giganteschi con cortecce grigie e lucide che riflettono la scarsa luce. La risorsa primaria della regione è la **[[Ferroquercia]]** (Ironoak).

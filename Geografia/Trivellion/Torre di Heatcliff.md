@@ -1,3 +1,7 @@
+> [!infobox]
+> # Torre di Heatcliff
+> *La [[Torre di Heatcliff]] è una struttura isolata gestita da una rigida gerarchia di monaci. Non funge da semplice carcere, ma da centro di condizionamento: lo scopo primario dell'istituto è trasforma...*
+
 **Tipologia:** Prigione-Monastero / Centro di Addestramento Forzato 
 **Affiliazione:** [[Impero di Trivellion]] (Ufficiosa/Segreta) 
 **Popolazione:** Monaci guerrieri e Reietti (esiliati)
