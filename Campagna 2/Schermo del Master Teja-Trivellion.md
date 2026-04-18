@@ -90,3 +90,26 @@
 > 2. **Coprifuoco:** Attivo da Mezzanotte, senza permesso si rischiano le celle.
 > 3. **Danni alle Proprietà:** Distruzione dei [[Forgiati]] = Lavori Forzati immediati.
 > 4. **Armi in Vista:** Rissa con pugnali tollerata; armonature, spade lunghe/armi da fuoco richiedono licenza e sono motivo di arresto immediato.
+
+---
+
+## CONDIZIONI D&D 5.5 (Revisione 2024)
+
+> [!abstract] Riassunto Rapido Condizioni
+> **Accecato (Blinded):** Non ci vedi. Fallisci automaticamente prove basate sulla vista. Vantaggio per chi ti attacca, Svantaggio ai tuoi attacchi.
+> **Affascinato (Charmed):** Non puoi attaccare o bersagliare negativamente l'ammaliatore. Lui ha Vantaggio su di te nei check sociali.
+> **Assordato (Deafened):** Non ci senti. Fallisci automaticamente prove basate sull'udito.
+> **Avvelenato (Poisoned):** Svantaggio a Tiri per Colpire e Prove di Caratteristica.
+> **Incapace (Incapacitated):** Smetti temporaneamente di fare Azioni, Reazioni o Bonus Action. *Perdi Concentrazione*. Non puoi parlare. (Nuova regola globale basale).
+> **Invisibile (Invisible):** Vantaggio ai tuoi attacchi, Svantaggio per esser colpiti. Puoi prendere l'azione Nascondersi ovunque.
+> **Spaventato (Frightened):** Svantaggio a tutti i Tiri per Colpire e Prove finchè vedi la fonte. Non puoi avvicinarti ad essa volontariamente.
+> **Trattenuto (Restrained):** Velocità 0. Attacchi contro di te con Vantaggio. I tuoi attacchi con Svantaggio. Svantaggio ai TS Destrezza.
+
+> [!danger] Condizioni Dinamiche (Heavy Rework 2024)
+> **Afferrato (Grappled):** Velocità 0. Svantaggio **A TUTTI** i Tiri per Colpire effettuati contro qualsiasi target **diverso** da chi ti afferra. Se subisci movimenti forzati che ti allontanano, la presa si rompe!
+> **Prono (Prone):** Puoi solo Strisciare. I tuoi attacchi in mischia hanno Svantaggio. Chi ti attacca da **entro 1.5m (5 ft)** ha Vantaggio, mentre gli attacchi da distanze maggiori subiscono Svantaggio.
+> **Sfinimento (Exhaustion):** *Sistema lineare 1-6*. Ogni livello ti dà **-2** (CUMULABILE: liv 2 è -4, ecc.) a **TUTTI** i D20 test effettuati e diminuisce di 2 le **CD dei tiri di salvezza** dei tuoi incantesimi/tratti. Al Livello 6 muori.
+> **Stordito (Stunned):** Diventi *Incapace*. Velocità 0. Fallisci TS Forza/Destrezza in automatico. Chi ti attacca ha Vantaggio.
+> **Paralizzato (Paralyzed):** (Incapace, Diff. TS). Chi ti attacca da vicino (1.5m) colpisce e fa in automatico un **COLPO CRITICO**.
+> **Pietrificato (Petrified):** Mutato in roccia. Paralizzato. Il peso si moltiplica x10. Resistenza a qualsiasi danno, e tutte le malattie o veleni sono in pausa.
+> **Svenuto (Unconscious):** Diventi *Incapace* e cadi *Prono*. Lasci immediatamente cadere gli oggetti. Chi ti attacca da 1.5m mette segno **COLPO CRITICO** in automatico. Fallimento TS Dex/Str.
