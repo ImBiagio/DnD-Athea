@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "bbe8d909350e253a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad65bfee0ae355fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "923255b4e07348b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atto 1 - Nel palazzo reale di Teja"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fc56381ab765a87",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2fd5fded85c8e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e69bf87dfb8e1c6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "d1918d6ab2bf33b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "1cf40bcdd61d9f16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70ef6ca68c58fe47",
+    "type": "split",
+    "children": [
+      {
+        "id": "a06a857ca366e05e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "458f22e380608e2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mostruosità/Leviustro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Leviustro"
+            }
+          },
+          {
+            "id": "bd8ee29d3295d4b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Atto 1 - Nel palazzo reale di Teja"
+            }
+          },
+          {
+            "id": "ac981241050ea6ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "75a6c273be2aa49d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "534aad02432b2c2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Atto 1 - Nel palazzo reale di Teja"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "00ac8c7f9813678c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f8056fa53db9714",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "923255b4e07348b9",
+  "lastOpenFiles": [
+    "Artefatti/Crann Bethadh.md",
+    "Trivellion.md",
+    "Senza nome 1.canvas",
+    "2026-04-18.md",
+    "Senza nome.canvas",
+    "Canvas.canvas",
+    "Personaggi/Yavanna.md",
+    "Personaggi/Vorgath.md",
+    "Personaggi/Vladimir.md",
+    "Personaggi/Tixie Bullone.md",
+    "Personaggi/Thorum Bronzofuso.md",
+    "Personaggi/Thomas lo Scaltro.md",
+    "Personaggi/The Librarian.md",
+    "Personaggi/Srix.md",
+    "Personaggi/Silas.md",
+    "Personaggi/Re Tybalt IV.md",
+    "Personaggi/Re Solomos.md",
+    "Personaggi/Oceiros.md",
+    "Personaggi/Mastro Glimmer.md",
+    "Personaggi/Mariel.md",
+    "Personaggi/Madame Vespera.md",
+    "Personaggi/Madame Rosaline.md",
+    "Personaggi/Lord Valerius Pym.md",
+    "Personaggi/Kurn.md",
+    "Personaggi/Leesa.md",
+    "Personaggi/Khamet.md",
+    "Personaggi/Jorek.md",
+    "Personaggi/Jack e Rose.md",
+    "Personaggi/Isondra.md",
+    "Geografia/Mappa.jpg",
+    "Geografia/Trivellion/Trivellion (stemma).png",
+    "Geografia/Trivellion/AMBIENCE - Teja.png",
+    "Geografia/Trivellion/AMBIENCE - Kronaria.png",
+    "Fazioni/Trivellion/ÈNCOUNTER - Valthaken.png",
+    "Campagna 2/Workflow Campagna 2.canvas",
+    "Senza nome.base",
+    "Senza nome 1.base",
+    "Geografia/Avalon/Avalon (stemma).png",
+    "Personaggi/AMBIENCE - Stamperia 1.png",
+    "Personaggi/AMBIENCE - Alchimista cieco 1.png",
+    "Personaggi/AMBIENCE - Ingranaggi di Trixie 1.png",
+    "Personaggi/AMBIENCE - Calice di Eterite 1.png",
+    "Fazioni/Trivellion",
+    "Fazioni/Avalon",
+    "Fazioni/Alfheim",
+    "Cosmologi",
+    "Geografia/Isole Divine",
+    "Geografia/Trivellion/Isole",
+    "Geografia/Trivellion",
+    "Geografia/Avalon"
+  ]
+}
