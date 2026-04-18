@@ -3,7 +3,7 @@ In seguito all'intervento diretto delle divinità e alla spartizione dei domini,
 
 Le frontiere si stabilizzarono e nacquero grandi superpotenze politiche, ognuna guidata da filosofie distinte e protetta da specifici patroni divini.
 
-### Il Dominio Unificato di [[Aelindor]] (Elfi)
+### Il Dominio Unificato di Aelindor (Elfi)
 
 Le quattro stirpi elfiche (Boschi, Alti, Mare e Fuoco) compresero che la loro sopravvivenza dipendeva dall'unità. Sotto la guida del primo _Alto Conciliatore Aelindor_, venne fondato il **Dominio di Aelindor**.
 
@@ -11,14 +11,14 @@ Le quattro stirpi elfiche (Boschi, Alti, Mare e Fuoco) compresero che la loro so
     
 - **Capitale:** La capitale, **Syldra**, fu edificata su un immenso albero di cristallo cresciuto nel punto di convergenza di quattro _ley lines_ (linee di potere), sospesa tra terra e cielo.
     
-- **Culto:** Aelindor divenne il centro del culto di **Lyra** (Magia) e **Sylva** (Natura), mantenendo una politica di isolazionismo illuminato, proteggendo i confini con barriere magiche impenetrabili.
+- **Culto:** Aelindor divenne il centro del culto di **Lyra** (Magia) e **Sylva** ([[Natura]]), mantenendo una politica di isolazionismo illuminato, proteggendo i confini con barriere magiche impenetrabili.
     
 
 ### La Dicotomia Umana
 
 La razza umana, incapace di trovare un'unità di pensiero simile a quella elfica, si fratturò in due massicci imperi ideologicamente opposti, divisi da una vasta catena montuosa.
 
-- **[[L'Impero Progressista di Aethelgard]]:** Situato a Est, Aethelgard abbracciò la visione del progresso senza freni.
+- **L'Impero Progressista di Aethelgard:** Situato a Est, Aethelgard abbracciò la visione del progresso senza freni.
     
     - **Filosofia:** Una società basata sullo studio arcano, la tecnologia e il commercio. Qui la magia non era vista come sacra, ma come una risorsa da sfruttare scientificamente.
         
@@ -26,7 +26,7 @@ La razza umana, incapace di trovare un'unità di pensiero simile a quella elfica
         
     - **Caratteristica:** Le loro città sfoggiavano le prime architetture "magitech", con lampioni a cristalli perenni e navi volanti sperimentali.
         
-- **[[Il Sacro Regno di Valdoria]]:** Situato a Ovest, Valdoria si fondò su valori tradizionalisti, feudali e marziali.
+- **Il Sacro Regno di Valdoria:** Situato a Ovest, Valdoria si fondò su valori tradizionalisti, feudali e marziali.
     
     - **Filosofia:** Una società rigida, gerarchica e profondamente religiosa, diffidente verso la magia arcana libera (considerata pericolosa dopo la Guerra dei Poteri) ma devota alla magia divina.
         
@@ -35,9 +35,9 @@ La razza umana, incapace di trovare un'unità di pensiero simile a quella elfica
     - **Caratteristica:** Valdoria divenne il baluardo militare del continente, con fortezze inespugnabili e leggi severe ma giuste.
         
 
-### 3. La Grande Confederazione di [[Kazad-Thul]]
+### 3. La Grande Confederazione di Kazad-Thul
 
-La più sorprendente alleanza dell'epoca nacque tra le vette e le profondità della terra. Nani e Gnomi, riconoscendo una comune origine nella pietra, siglarono il _[[Patto di Granito]]_ con i Giganti (prevalentemente delle Pietre e delle Tempeste) e le tribù dei Goliath. Nacque così **Kazad-Thul**.
+La più sorprendente alleanza dell'epoca nacque tra le vette e le profondità della terra. Nani e Gnomi, riconoscendo una comune origine nella pietra, siglarono il _Patto di Granito_ con i Giganti (prevalentemente delle Pietre e delle Tempeste) e le tribù dei Goliath. Nacque così **Kazad-Thul**.
 
 - **Struttura Sociale:**
     
@@ -57,13 +57,13 @@ La più sorprendente alleanza dell'epoca nacque tra le vette e le profondità de
 
 Non tutto il mondo si piegò all'ordine dei grandi imperi. Nelle zone di confine fiorirono realtà diverse:
 
-- **[[La Teocrazia di Drakkenheim]]:** Nelle terre vulcaniche desolate, i **Dragonborn** (Dragonidi) e i Coboldi fondarono una società devota ai Draghi, visti come semidei viventi. Qui regnava la legge del più forte (culto di **Ferus** e **Talon**), e la città fungeva da zona neutrale dove i draghi cromatici e metallici potevano parlamentare.
+- **La Teocrazia di [[Drakkenheim]]:** Nelle terre vulcaniche desolate, i **Dragonborn** (Dragonidi) e i Coboldi fondarono una società devota ai Draghi, visti come semidei viventi. Qui regnava la legge del più forte (culto di **Ferus** e **Talon**), e la città fungeva da zona neutrale dove i draghi cromatici e metallici potevano parlamentare.
     
-- **[[Le Terre Libere di Zura]]:** Una vasta distesa di savane e giungle selvagge dove rifiutarono di insediarsi i grandi imperi. Divenne la patria di **Mezzorchi**, tribù umane nomadi, **Tabaxi** e altre razze bestiali.
+- **Le Terre Libere di Zura:** Una vasta distesa di savane e giungle selvagge dove rifiutarono di insediarsi i grandi imperi. Divenne la patria di **Mezzorchi**, tribù umane nomadi, **Tabaxi** e altre razze bestiali.
     
     - **Politica:** Nessun governo centrale; la legge era dettata dai capiclan e dagli sciamani. Era un rifugio per chi fuggiva dalla rigida legge di Valdoria o dagli esperimenti di Aethelgard.
         
-- **[[Vespera, la Città del Crepuscolo]]:** Situata su un'isola avvolta da nebbie perenni (influenza dello Shadowfell), Vespera divenne una città-stato indipendente mercantile.
+- **Vespera, la Città del Crepuscolo:** Situata su un'isola avvolta da nebbie perenni (influenza dello Shadowfell), Vespera divenne una città-stato indipendente mercantile.
     
     - **Abitanti:** Un rifugio per ladri, esiliati e chiunque volesse sparire.
         

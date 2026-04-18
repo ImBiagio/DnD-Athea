@@ -11,7 +11,7 @@
     
 - **La Città (Drakkanor):** Una fortezza scavata nell'ossidiana e rinforzata con acciaio scuro. Le strade sono illuminate da bracieri e il calore è soffocante.
     
-    - **Governo (Ex-Teocrazia):** Un tempo governata dai sommi sacerdoti, dopo una recente guerra civile il potere è passato a una **Giunta Militare** ("[[Le Scaglie di Ferro]]"). La religione è ancora forte, ma ora serve lo stato e non viceversa. I Dragonidi Cromatici qui sono marziali, severi e ossessionati dalla forza.
+    - **Governo (Ex-Teocrazia):** Un tempo governata dai sommi sacerdoti, dopo una recente guerra civile il potere è passato a una **Giunta Militare** ("Le Scaglie di Ferro"). La religione è ancora forte, ma ora serve lo stato e non viceversa. I Dragonidi Cromatici qui sono marziali, severi e ossessionati dalla forza.
         
     - **Ruolo:** Si definiscono "I Guardiani della Gabbia". Credono che il vulcano sia la prigione di una bestia primordiale e che i loro rituali (e il calore delle forge) servano a tenerla dormiente o, secondo i più estremisti, a canalizzarne il potere.
         
@@ -27,7 +27,7 @@
 
 - **La Città Divisa:** Vhal'drakken è una meraviglia architettonica unica, costruita su altissime falesie a picco sul mare.
     
-    - **Vhal-Sud (Distretto Solare):** Situato formalmente nelle Terre Draconiche. Qui vivono i nobili e i commercianti Dragonidi Metallici. L'architettura è elegante, con guglie d'oro e marmo bianco.
+    - **Vhal-Sud (Distretto Solare):** Situato formalmente nelle [[Terre Draconiche]]. Qui vivono i nobili e i commercianti Dragonidi Metallici. L'architettura è elegante, con guglie d'oro e marmo bianco.
         
     - **Vhal-Nord (Distretto del Gelo):** Situato tecnicamente nelle **[[Terre degli Ogre del Nord]]**. È un quartiere di frontiera, più robusto, frequentato da mercenari Goliath e commercianti del nord.
         
@@ -61,7 +61,7 @@ Le due fazioni vivono in una **Guerra Fredda** costante. Non si combattono apert
 
 ### Il Guardiano Elementale (Condiviso/Conteso)
 
-**Nome:** **Ignis-Ventus, Lo Spirito della Cenere** **Natura:** Drago Elementale composto da fumo, brace e vento.
+**Nome:** **Ignis-Ventus, Lo Spirito della Cenere** **[[Natura]]:** Drago Elementale composto da fumo, brace e vento.
 
 Questa entità risiede esattamente al confine tra i due biomi.
 

@@ -3,5 +3,5 @@
 
 - **Properties**: Alloy
 
-Lega pesantissima e resistentissima, forgiata fondendo Eterite depotenziata e acciaio. I Forgiati sono rivestiti di questo materiale.
+Lega pesantissima e resistentissima, forgiata fondendo [[Eterite]] depotenziata e acciaio. I [[Forgiati]] sono rivestiti di questo materiale.
 

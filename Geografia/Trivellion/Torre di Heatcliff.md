@@ -4,7 +4,7 @@
 
 ### Scopo e Funzione
 
-La Torre di Heatcliff è una struttura isolata gestita da una rigida gerarchia di monaci. Non funge da semplice carcere, ma da centro di condizionamento: lo scopo primario dell'istituto è trasformare i "reietti" (persone emarginate e non volute dalla società di [[Trivellion]]) in **armi letali viventi** da impiegare in guerra.
+La [[Torre di Heatcliff]] è una struttura isolata gestita da una rigida gerarchia di monaci. Non funge da semplice carcere, ma da centro di condizionamento: lo scopo primario dell'istituto è trasformare i "reietti" (persone emarginate e non volute dalla società di [[Impero di Trivellion|Trivellion]]) in **armi letali viventi** da impiegare in guerra.
 
 ### Metodologia di Addestramento
 
@@ -36,4 +36,4 @@ La struttura sociale interna è rigida, simile a quella militare, e suddivisa in
     
 3. **Gli Addestratori:** Il braccio operativo della Torre. Si occupano direttamente della gestione dei reietti, sottoponendoli alle prove decise dai Dieci e approvate dal Monaco Supremo. Spesso abusano del loro potere tramite maltrattamenti.
     
-4. **I Reietti:** Il livello più basso della catena alimentare. Sono gli esiliati di [[Trivellion]], oppressi, torturati e sfruttati da tutti i ranghi superiori.
+4. **I Reietti:** Il livello più basso della catena alimentare. Sono gli esiliati di [[Impero di Trivellion|Trivellion]], oppressi, torturati e sfruttati da tutti i ranghi superiori.

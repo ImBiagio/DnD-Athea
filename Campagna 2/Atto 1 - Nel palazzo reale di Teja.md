@@ -19,9 +19,9 @@ Porta stile caveau (ottone/ferro), tubi, valvole e serbatoio di inchiostro magic
 - **Penalità (Errore):** Getto di Vapore, **2d6 Danni Fuoco** (TS DEX dimezza).
 
 ### Il Briefing
-- **NPC Presenti:** I 3 Lord Ink ([[$(Fazioni\Trivellion\Calamaio d'Argento 1.md Fazioni\Trivellion\Calamaio d'Argento.md Calamaio d'Argento 1 Calamaio d'Argento[3])]], [[Fazioni/Trivellion/The Librarian]]).
+- **NPC Presenti:** I 3 Lord Ink.
 - **Azione:** Viene proiettato l'ologramma del **Bibliotecario**.
-- **La Missione:** Infiltrazione furtiva nello studio privato di Alatar durante la "Festa dell'Ingegno" (tra 6 gg) per trovare le prove dei suoi piani. Il palazzo sarà sguarnito ma con vari sistemi di sicurezza automatici attivi.
+- **La Missione:** Infiltrazione furtiva nello studio privato di [[Alatar]] durante la "Festa dell'Ingegno" (tra 6 gg) per trovare le prove dei suoi piani. Il palazzo sarà sguarnito ma con vari sistemi di sicurezza automatici attivi.
 
 ---
 
@@ -41,7 +41,7 @@ Thorum è estremamente paranoico. Il luogo ha alcune difese:
 - **Trappola 2:** Torretta Balestra Automatica _(stat Flying Sword - MM, stazionaria, danni perforanti)_.
 
 ### L'Incontro
-- **Sociale:** Convincerlo della loro estraneità ad Alatar.
+- **Sociale:** Convincerlo della loro estraneità ad [[Alatar]].
     - Se fallita: Thorum aizza un **Iron Defender** _(stat Lupo di metallo, alta CA)_.
 - **Ricompensa:** Ottengono il **Disruttore Eterico**.
     - **Uso:** Inserirlo nella Fornace Principale (nei sotterranei del palazzo).
@@ -89,7 +89,7 @@ Senza inviti per il ballo, l'infiltrazione sarà durissima. 3 Opzioni per recupe
 
 ### Zona 1: Sala Caldaie (Sotterranei)
 - **Azione:** Inserire il Disruttore Eterico. **Inizia il Countdown di 1 Ora** (luci sfarfallano).
-- **Nemici:** 2x Forgiati Soldato (pattugliano in loop, immuni a distrazioni o corruttele).
+- **Nemici:** 2x [[Forgiati]] Soldato (pattugliano in loop, immuni a distrazioni o corruttele).
 
 ### Zona 2: Alloggi Privati (Piano Terra / Primo Piano)
 - **Azione:** La squadra Stealth sblocca le porte di servizio per i compagni al ballo o in attesa all'esterno.
@@ -101,7 +101,7 @@ Senza inviti per il ballo, l'infiltrazione sarà durissima. 3 Opzioni per recupe
 - **Bypass:** Codice Mantenimento recuperato in tasca a un ufficiale durante il Ballo, che li mette in stand-by.
 
 > [!bug] L'Ingresso Reale (Il Sigillo)
-> Eliminati i Valthaken c’è un portone di metallo nero liscio specchiato. Scassinare o le magie non hanno effetto.
+> Eliminati i [[Valthaken]] c’è un portone di metallo nero liscio specchiato. Scassinare o le magie non hanno effetto.
 > **La Soluzione:** I 7 Ciondoli dei Primordiali iniziano a vibrare. Inserendoli (o avvicinandoli) in 7 incavi luminosi creatisi sulla porta, essa si *dissolve*, rivelando un immenso laboratorio segreto.
 
 ---
@@ -111,28 +111,28 @@ Senza inviti per il ballo, l'infiltrazione sarà durissima. 3 Opzioni per recupe
 > [!quote] Descrizione Stanza (Da Leggere ad Alta Voce)
 > _Siete su una passerella sospesa nel vuoto in una stanza cilindrica gigantesca. Al centro, trattenuta da catene fatte di luce viola e tubi pulsanti, vi aspetta una grande sfera di liquido viscoso bluastro. Al suo interno levita una ragazza rannicchiata. È magra, nuda, coperta di cicatrici runiche. Attorno a lei e sopra di voi, decine di maghi e stregoni intrappolati in celle di vetro vengono drenati della loro magia da tubi collegati direttamente alla sfera, per nutrirla._
 
-- **La Verità:** La ragazza è **[[Erya]]**. Alatar sta cercando di forzare la sua rottura e spezzare il suo Sigillo per incamerare le energie di Evolon.
+- **La Verità:** La ragazza è **[[Erya]]**. [[Alatar]] sta cercando di forzare la sua rottura e spezzare il suo Sigillo per incamerare le energie di [[Evolon]].
 
 ### L'Evento: La Risonanza Primordiale
 1. I ciondoli dei PG irradiano raggi magici verso la sfera.
-2. **Il Sovraccarico:** I macchinari di Alatar vanno in crash. I tubi esplodono e i prigionieri liberi svengono. Il liquido nella sfera diventa nero inchiostro.
-3. **Risveglio:** Erya apre gli occhi emettendo solo luce bianca.
+2. **Il Sovraccarico:** I macchinari di [[Alatar]] vanno in crash. I tubi esplodono e i prigionieri liberi svengono. Il liquido nella sfera diventa nero inchiostro.
+3. **Risveglio:** [[Erya]] apre gli occhi emettendo solo luce bianca.
     - **Onda d'urto psichica:** TS Costituzione (CD 14) o si sente tutto il dolore di 10 anni di torture psicofisiche.
 
 ### Il Marchio dei 7
-Erya esplode fuori dalla sfera assorbendo tutto. Prima della detonazione totale, **7 schegge di energia primordiale** si conficcano nei petti dei PG fondendo i Ciondoli con il loro cuore.
+[[Erya]] esplode fuori dalla sfera assorbendo tutto. Prima della detonazione totale, **7 schegge di energia primordiale** si conficcano nei petti dei PG fondendo i Ciondoli con il loro cuore.
 - **Effetto Narrativo:** Legame indissolubile con lei (si percepiscono a vicenda).
 - **Danno Immediato:** 2d6 danni da Forza, i PG vengono sbalzati indietro.
 
 ### La Caduta
-Il laboratorio esplode letteralmente in aria! I PG ed Erya precipitano giù verso la pubblica piazza in festa, atterrando miracolosamente a centro palco, rallentati dall'aura di Erya.
+Il laboratorio esplode letteralmente in aria! I PG ed [[Erya]] precipitano giù verso la pubblica piazza in festa, atterrando miracolosamente a centro palco, rallentati dall'aura di [[Erya]].
 - **Danni Atterraggio:** 3d6 da schianto (e sono tutti Proni).
 
 ---
 
 ## 7. L'Epilogo: Nemici Pubblici!
 
-La piazza è nel caos. Erya polverizza le guardie rimaste con un'onda oscura ed evapora via. Alatar, livido e ferito, usa l'amplificazione vocale per additare il gruppo: accusa i PG di essere i terroristi del Calamaio! 
+La piazza è nel caos. [[Erya]] polverizza le guardie rimaste con un'onda oscura ed evapora via. [[Alatar]], livido e ferito, usa l'amplificazione vocale per additare il gruppo: accusa i PG di essere i terroristi del Calamaio! 
 
 > [!danger] Skill Challenge Finale: La Fuga in Città
 > Siete accerchiati. **Obiettivo:** Fuggire dal palazzo e dalla folla impazzita.
@@ -154,14 +154,14 @@ La piazza è nel caos. Erya polverizza le guardie rimaste con un'onda oscura ed 
 > - **Guarditutticittadina:** _Guard_ (MM) ma potenziato a **20 HP**. Usa corno.
 > - **Guardia Palazzo (Elite):** _Veteran_ (MM). Multiattacco.
 > - **[[Valthaken]]:** _Helmed Horror_ (MM). Resistenza Magica, Volano.
-> - **Forgiati e Trappole:** _Warforged Soldier_ o _Animated Armor_ / Balestra= _Flying Sword_.
+> - **[[Forgiati]] e Trappole:** _Warforged Soldier_ o _Animated Armor_ / Balestra= _Flying Sword_.
 > - **Boss Sergente:** _Knight_ (+2 CA) o _Gladiator_ (MM).
 > 
 > **NPC Alleati e Informatori:**
 > - **[[Guizzo]]** (Monello Tiefling, Ladro Arcano): Sui tetti, fa da staffetta messaggi.
 > - **[[Madame Rosaline]]** (Umana, Bordello): Materna ma spietata, ottima per ricatti ai nobili.
 > - **[[Contessa Elara Vance]]** (Nobile Elfa): Simpatizzante snob, copre i PG se scoperti al ballo fingendosi parente.
-> - **[[Barone Korg]]** (Nano Merchant): Fornitore cacciato da Alatar. Rancoroso. Offre piantine segrete e grimaldelli.
+> - **[[Barone Korg]]** (Nano Merchant): Fornitore cacciato da [[Alatar]]. Rancoroso. Offre piantine segrete e grimaldelli.
 > 
 > **Assegnazione Ciondoli Primordiali (Fallo a inizio Atto/Avventura!):**
 > 1. Sarayl (Terra) -> Chierico/Druido

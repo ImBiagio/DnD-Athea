@@ -1,7 +1,7 @@
 
 ## Overview
-Illand era un tempo una regione rigogliosa, ma fu totalmente devastata dall'Incidente di Illand nel 760 A.E. a causa della detonazione della Lacrima di Onice.
-Oggi è un territorio formalmente sotto la giurisdizione dell'Impero di Trivellion, ma di fatto è anarchico, battuto da tempeste di Miasma Trasmutativo e infestato da aberrazioni distorte dalle energie dell'Eterite pura esplosa. È qui che si trova il villaggio remoto di Firth, dove risiedono segretamente Jack, Rose e la giovane Erya.
+[[Illand]] era un tempo una regione rigogliosa, ma fu totalmente devastata dall'[[Incidente di Illand]] nel 760 A.E. a causa della detonazione della Lacrima di Onice.
+Oggi è un territorio formalmente sotto la giurisdizione dell'[[Impero di Trivellion]], ma di fatto è anarchico, battuto da tempeste di Miasma Trasmutativo e infestato da aberrazioni distorte dalle energie dell'[[Eterite]] pura esplosa. È qui che si trova il villaggio remoto di Firth, dove risiedono segretamente Jack, Rose e la giovane [[Erya]].
 
 **Giurisdizione:** Formalmente territorio dell'[[Impero di Trivellion]], ma di fatto indipendente e anarchico perché non considerati. 
 **Geografia:** La regione è divisa in due biomi distinti. La metà settentrionale e occidentale è composta da praterie ventose e colline costiere. La metà meridionale e orientale è un deserto arido.
@@ -10,7 +10,7 @@ Oggi è un territorio formalmente sotto la giurisdizione dell'Impero di Trivelli
 
 - **Storia e Popolazione:** Angharad è l'ultimo bastione di civiltà umana nella regione. È abitata dai discendenti dei cittadini di [[Illand]] che si rifiutarono di migrare a nord dopo l'Incidente del 760 A.E., e da profughi che cercano di sfuggire alla legge degli imperi. La gente qui è aperta, gentile e estremamente solidale.
     
-- **Economia:** Si basa sulla pesca, sull'agricoltura di sussistenza e soprattutto sul **Recupero (Scavenging)**. Le praterie circostanti sono disseminate di relitti bellici, armature e macchine da guerra di [[Avalon]] e [[Trivellion]] abbandonate 8 anni fa.
+- **Economia:** Si basa sulla pesca, sull'agricoltura di sussistenza e soprattutto sul **Recupero (Scavenging)**. Le praterie circostanti sono disseminate di relitti bellici, armature e macchine da guerra di [[Regno di Avalon|Avalon]] e [[Impero di Trivellion|Trivellion]] abbandonate 8 anni fa.
     
 - **Punti di Interesse:**
     
@@ -36,7 +36,7 @@ Oggi è un territorio formalmente sotto la giurisdizione dell'Impero di Trivelli
 
 ### 3. Luoghi di Interesse Regionali
 
-- **Il Cratere di Vetro (Ground Zero):** Il punto esatto dove esplose la _Lacrima di Onice_ e dove si salvarono Jack e Rose. È una vasta depressione vetrificata al confine tra le praterie e il deserto.
+- **Il Cratere di Vetro (Ground Zero):** Il punto esatto dove esplose la _Lacrima di Onice_ e dove si salvarono [[Jack e Rose]]. È una vasta depressione vetrificata al confine tra le praterie e il deserto.
     
     - **Anomalia:** Qui la magia non funziona correttamente (incantesimi falliscono o hanno effetti opposti). La zona è evitata da tutti tranne che dai pazzi, poiché è infestata da **Echi**: residui spettrali della battaglia che continuano a combattere in un loop eterno.
         
@@ -45,7 +45,7 @@ Oggi è un territorio formalmente sotto la giurisdizione dell'Impero di Trivelli
 
 ### Il Guardiano Elementale
 
-**Nome:** **[[Khamet]], il Viandante delle Dune** **Natura:** Golem Elementale di Sabbia e Fulmine.
+**Nome:** **Khamet, il Viandante delle Dune** **[[Natura]]:** Golem Elementale di Sabbia e Fulmine.
 
 Khamet è l'incarnazione della natura mutevole e pericolosa di [[Illand]].
 

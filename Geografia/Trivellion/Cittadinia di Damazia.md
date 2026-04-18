@@ -1,11 +1,11 @@
 
 
 ## Overview
-Damazia è un famigerato porto libero. Nata originariamente come colonia di Avalon, ottenne l'indipendenza corrompendo ammiragli e funzionari con l'oro lucrato nel contrabbando di armi durante la guerra. Oggi, guidata da un oligopolio di "Baroni Mercantili", è un nido sicuro per corsari, spie e disertori delle due grandi nazioni.
+[[Cittadinia di Damazia|Damazia]] è un famigerato porto libero. Nata originariamente come colonia di [[Regno di Avalon|Avalon]], ottenne l'indipendenza corrompendo ammiragli e funzionari con l'oro lucrato nel contrabbando di armi durante la guerra. Oggi, guidata da un oligopolio di "Baroni Mercantili", è un nido sicuro per corsari, spie e disertori delle due grandi nazioni.
 
 
 ---
-Merged from Cittadina di Damazia:
+Merged from Cittadina di [[Cittadinia di Damazia|Damazia]]:
 
 **Ruolo:** Centro Agricolo Intensivo e Ricerca Biomantica.
 

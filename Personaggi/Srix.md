@@ -1,1 +1,1 @@
-![[NPC - Srix.png]]
+!NPC - [[Srix]].png

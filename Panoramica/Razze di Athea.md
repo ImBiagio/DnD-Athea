@@ -26,9 +26,9 @@
     
 - **Tiefling:** Nati dall'incontro tra umani e diavoli.
 
-- **[[Fazioni/Trivellion/Forgiati]]:** [[Fazioni/Trivellion/Forgiati]] da [[Trivellion]].
+- **Fazioni/[[Impero di Trivellion|Trivellion]]/[[Forgiati]]:** Fazioni/[[Impero di Trivellion|Trivellion]]/[[Forgiati]] da [[Impero di Trivellion|Trivellion]].
 
-- **Cangianti:** Esperimenti di [[Trivellion]].
+- **Cangianti:** Esperimenti di [[Impero di Trivellion|Trivellion]].
 
 
 

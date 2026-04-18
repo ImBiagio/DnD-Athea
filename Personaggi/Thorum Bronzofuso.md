@@ -1,1 +1,1 @@
-![[NPC - Thorum Bronzofuso.png]]
+!NPC - [[Thorum Bronzofuso]].png

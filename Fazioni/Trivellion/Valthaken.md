@@ -3,11 +3,11 @@
 **Fedeltà:** Esclusiva all'Arcimago [[Alatar]]. 
 **Stato Legale:** Inesistenti (Ufficialmente non registrati negli archivi imperiali).
 
-![[ÈNCOUNTER - Valthaken.png]]
+!ÈNCOUNTER - [[Valthaken]].png
 
 ### Descrizione
 
-I [[Valthaken]] non sono soldati, sono estensioni fisiche della volontà di [[Alatar]]. Agiscono nell'ombra per eliminare minacce che l'esercito regolare non può toccare o per svolgere incarichi che l'Imperatore non approverebbe. Sono temuti per la loro efficienza silenziosa: non parlano mai, non mostrano pietà e non si ritirano a meno che non venga ordinato. Per la gente comune sono solo leggende urbane ("Gli Spettri di Teja"); per i pochi ufficiali della Guardia che sanno, sono intoccabili.
+I [[Valthaken]] non sono soldati, sono estensioni fisiche della volontà di [[Alatar]]. Agiscono nell'ombra per eliminare minacce che l'esercito regolare non può toccare o per svolgere incarichi che l'Imperatore non approverebbe. Sono temuti per la loro efficienza silenziosa: non parlano mai, non mostrano pietà e non si ritirano a meno che non venga ordinato. Per la gente comune sono solo leggende urbane ("Gli Spettri di [[Città di Teja|Teja]]"); per i pochi ufficiali della Guardia che sanno, sono intoccabili.
 
 ### Reclutamento: "Il Ferro Grezzo"
 
@@ -20,7 +20,7 @@ A differenza dei criminali comuni spediti ai **Ceppi** per morire di lavoro, i c
 
 ### L'Addestramento: La [[Torre di Heatcliff]]
 
-La Torre di Heatcliff funge da fucina per questi agenti. Il processo dura anni e mira alla spersonalizzazione totale.
+La [[Torre di Heatcliff]] funge da fucina per questi agenti. Il processo dura anni e mira alla spersonalizzazione totale.
 
 1. **La Frantumazione:** L'identità del recluta viene cancellata tramite isolamento, privazione del sonno e dolore fisico. Viene loro insegnato che il loro nome è una debolezza e il loro passato una menogna.
     
@@ -57,4 +57,4 @@ I [[Valthaken]] operano spesso in borghese per infiltrarsi, ma quando scendono i
 
 - **L'[[$(Personaggi\Imperatore Tybalt IV.md Personaggi\Re Tybalt IV.md Imperatore Tybalt IV Re Tybalt IV[3])]]:** Ignora completamente l'esistenza dell'ordine. Crede che [[Alatar]] utilizzi i normali servizi segreti imperiali. Se scoprisse di questo esercito privato, lo considererebbe alto tradimento.
     
-- **La Guardia Cittadina:** I capitani di alto rango di Teja sanno che quando vedono il simbolo dei [[Valthaken]], devono ritirare le loro truppe e non fare domande. C'è una tensione palpabile: le guardie regolari li odiano ma ne sono terrorizzate.
+- **La Guardia Cittadina:** I capitani di alto rango di [[Città di Teja|Teja]] sanno che quando vedono il simbolo dei [[Valthaken]], devono ritirare le loro truppe e non fare domande. C'è una tensione palpabile: le guardie regolari li odiano ma ne sono terrorizzate.

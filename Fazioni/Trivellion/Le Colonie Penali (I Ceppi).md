@@ -12,7 +12,7 @@ I "Ceppi" non sono una singola prigione, ma una rete di campi di lavoro fortific
 
 La popolazione dei Ceppi è variegata e rappresenta lo "scarico" della società imperiale:
 
-1. **I Debitori (Gli Insolventi):** La maggioranza. Cittadini che non hanno potuto pagare le tasse o i prestiti alle banche di Teja. Lavorano per ripagare il debito, ma il sistema è truccato: l'Impero addebita loro il costo di cibo, alloggio e attrezzi, rendendo quasi impossibile la liberazione.
+1. **I Debitori (Gli Insolventi):** La maggioranza. Cittadini che non hanno potuto pagare le tasse o i prestiti alle banche di [[Città di Teja|Teja]]. Lavorano per ripagare il debito, ma il sistema è truccato: l'Impero addebita loro il costo di cibo, alloggio e attrezzi, rendendo quasi impossibile la liberazione.
     
 2. **I Politici (Le Lingue Tagliate):** Intellettuali, maghi rinnegati o ex-nobili che si sono opposti all'Imperatore o ad [[Alatar]]. Sono trattati peggio degli assassini e spesso assegnati alle zone più vicine alle tane delle bestie.
     
@@ -23,7 +23,7 @@ La popolazione dei Ceppi è variegata e rappresenta lo "scarico" della società 
 
 - **Il Direttorato:** I campi sono gestiti da funzionari imperiali corrotti o sadici, che vivono in torri blindate al centro degli accampamenti.
     
-- **I Custodi (Aguzzini):** La sicurezza è affidata principalmente a **[[Fazioni/Trivellion/Forgiati]] di Serie B** (modelli vecchi o difettosi, troppo instabili per la città ma perfetti per la violenza) e a mercenari senza scrupoli.
+- **I Custodi (Aguzzini):** La sicurezza è affidata principalmente a **Fazioni/[[Impero di Trivellion|Trivellion]]/[[Forgiati]] di Serie B** (modelli vecchi o difettosi, troppo instabili per la città ma perfetti per la violenza) e a mercenari senza scrupoli.
     
 - **I Marchiati:** I prigionieri vengono tatuati magicamente sulla fronte con un codice a barre runico che indica il loro crimine e la durata della pena. Se tentano la fuga, il marchio brilla e causa dolore lancinante quando si allontanano troppo dal perimetro.
     
@@ -39,7 +39,7 @@ I membri dei Ceppi non sono soldati, ma sono pericolosi.
 
 ### Relazioni
 
-- **Verso [[Trivellion]]:** Odio puro, misto a rassegnazione.
+- **Verso [[Impero di Trivellion|Trivellion]]:** Odio puro, misto a rassegnazione.
     
 - **Verso le Driadi e Arboros:** Terrore assoluto. I prigionieri sanno di essere gli invasori e le prime vittime della vendetta della foresta. Spesso lasciano offerte di nascosto agli spiriti per essere risparmiati.
     

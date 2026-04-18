@@ -26,19 +26,19 @@
 [[5 - La Guerra dell'Eterite]]
 [[Regni dopo la Grande Guerra]]
 
-> [!quote] 1. L'Anno Zero: L'Ascesa di Evolon (700 anni fa)
-> "Tutto ciò che esisteva prima di 700 anni fa è nebbia. La chiamiamo **[[La Grande Cancellazione]]**. Sappiamo solo che **[[Evolon]]**, un mago dal potere divino, cercò di piegare il mondo. Fu lui a creare l'**[[Abisso Scarlatto]]**, la ferita da cui emersero i demoni, e fu lui a risvegliare i primi non-morti.
-> Se oggi siamo qui è per tre figure leggendarie: **[[Vladimir]]**, **[[Mariel]]** e **[[$(Personaggi\Valerius.md Personaggi\Lord Valerius Pym.md Valerius Lord Valerius Pym[3])]]**. Loro hanno sigillato la sua malvagità. Contiamo gli anni da quel momento, l'Anno Zero (D.E.)."
+> [!quote] 1. L'Anno Zero: L'Ascesa di [[Evolon]] (700 anni fa)
+> "Tutto ciò che esisteva prima di 700 anni fa è nebbia. La chiamiamo **[[La Grande Cancellazione]]**. Sappiamo solo che **[[Evolon]]**, un mago dal potere divino, cercò di piegare il mondo. Fu lui a creare l'**Abisso Scarlatto**, la ferita da cui emersero i demoni, e fu lui a risvegliare i primi non-morti.
+> Se oggi siamo qui è per tre figure leggendarie: **Vladimir**, **[[Mariel]]** e **[[$(Personaggi\Valerius.md Personaggi\Lord Valerius Pym.md Valerius Lord Valerius Pym[3])]]**. Loro hanno sigillato la sua malvagità. Contiamo gli anni da quel momento, l'Anno Zero (D.E.)."
 
-> [!quote] 2. La Guerra dell'Eterite (730 D.E. – 760 D.E.)
+> [!quote] 2. La Guerra dell'[[Eterite]] (730 D.E. – 760 D.E.)
 > "Trent'anni fa, la brama di potere riaprì vecchie ferite. A **[[Khazad-Thul]]** fu scoperta l'**[[Eterite]]**: un minerale purosangue nato dal cataclisma.
 >
 > - **A Ovest:** Il **[[Regno di Avalon]]**, guidato da **[[Re Solomos]]**, voleva occupare le miniere per 'purificare' il minerale.
-> - **A Est:** L'**[[Impero di Trivellion]]**, dell'**[[$(Personaggi\Imperatore Tybalt IV.md Personaggi\Re Tybalt IV.md Imperatore Tybalt IV Re Tybalt IV[3])]]**, vedeva l'Eterite come carburante del futuro.
+> - **A Est:** L'**[[Impero di Trivellion]]**, guidato da **[[Re Tybalt IV]]** vedeva l'[[Eterite]] come carburante del futuro.
 >
-> Fu una guerra spietata. Magia contro Arcanotecnica. Nacquero così i **[[Fazioni/Trivellion/Forgiati]]**."
+> Fu una guerra spietata. Magia contro Arcanotecnica. Nacquero così i **Fazioni/[[Impero di Trivellion|Trivellion]]/[[Forgiati]]**."
 
-> [!quote] 3. L'Incidente di Illand (760 D.E. – 18 anni fa)
+> [!quote] 3. L'[[Incidente di Illand]] (760 D.E. – 18 anni fa)
 > "Dopo decenni di stallo, gli eserciti si scontrarono nel deserto di **[[Illand]]**.
 > Nessuno sa cosa scatenarono. L'esito fu l'annientamento istantaneo del campo di battaglia. Migliaia di vite cancellate in un istante. Di fronte a tale orrore, i leader mondiali fermarono i conflitti."
 
@@ -47,11 +47,11 @@
 > **[[Re Solomos]]**, l'**[[$(Personaggi\Imperatore Tybalt IV.md Personaggi\Re Tybalt IV.md Imperatore Tybalt IV Re Tybalt IV[3])]]** e l'Arcimago **[[Alatar]]** sono visti oggi come gli eroi.
 >
 > Ma la pace è una farsa:
-> - **[[Avalon]]** scambia l'Eterite dei Nani.
-> - **[[Trivellion]]** domina stati vassalli come **[[Drakkenheim]]** e le Terre degli Ogre.
+> - **[[Regno di Avalon|Avalon]]** scambia l'[[Eterite]] dei Nani.
+> - **[[Impero di Trivellion|Trivellion]]** domina stati vassalli come **[[Drakkenheim]]** e le Terre degli Ogre.
 > - **[[Illand]]** è un deserto anarchico radioattivo.
 >
-> È in questa finta pace, nel fumoso cuore di Trivellion tra opulenza e povertà, che si apre la vostra storia."
+> È in questa finta pace, nel fumoso cuore di [[Impero di Trivellion|Trivellion]] tra opulenza e povertà, che si apre la vostra storia."
 
 ---
 

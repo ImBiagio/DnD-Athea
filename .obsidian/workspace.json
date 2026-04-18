@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad65bfee0ae355fb",
+        "id": "8961381acdc029eb",
         "type": "tabs",
         "children": [
           {
-            "id": "923255b4e07348b9",
+            "id": "3a085dcb3bc3de34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Atto 1 - Nel palazzo reale di Teja"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -201,9 +197,30 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "923255b4e07348b9",
+  "active": "3a085dcb3bc3de34",
   "lastOpenFiles": [
+    "Fazioni/Trivellion/Accademia.md",
+    "Geografia/Trivellion/Illand.md",
+    "Campagna 2/Sessione 0.md",
+    "Campagna 2/Schermo del Master Teja-Trivellion.md",
+    "Mostruosità/Forgiati.md",
+    "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
+    "process_links.py",
+    "link_fixer.py",
+    "Personaggi/Thorum Bronzofuso.md",
+    "Geografia/Trivellion/Kronaria.md",
+    "Campagna 1/Niamh.md",
+    "Campagna 1/Morrigan.md",
+    "Campagna 1/Campagna 1.md",
+    "Artefatti/Il Sigillo della Mente.md",
+    "Artefatti/Il Sigillo dell'Anima.md",
+    "Artefatti/Il Sigillo del Potere.md",
+    "Artefatti/Fulmite.md",
+    "Artefatti/Ferroquercia.md",
+    "Artefatti/Eterite.md",
+    "Artefatti/Eteracciaio.md",
     "Artefatti/Crann Bethadh.md",
+    "Campagna 2/Workflow Campagna 2.canvas",
     "Trivellion.md",
     "Senza nome 1.canvas",
     "2026-04-18.md",
@@ -213,31 +230,12 @@
     "Personaggi/Vorgath.md",
     "Personaggi/Vladimir.md",
     "Personaggi/Tixie Bullone.md",
-    "Personaggi/Thorum Bronzofuso.md",
     "Personaggi/Thomas lo Scaltro.md",
-    "Personaggi/The Librarian.md",
-    "Personaggi/Srix.md",
-    "Personaggi/Silas.md",
-    "Personaggi/Re Tybalt IV.md",
-    "Personaggi/Re Solomos.md",
-    "Personaggi/Oceiros.md",
-    "Personaggi/Mastro Glimmer.md",
-    "Personaggi/Mariel.md",
-    "Personaggi/Madame Vespera.md",
-    "Personaggi/Madame Rosaline.md",
-    "Personaggi/Lord Valerius Pym.md",
-    "Personaggi/Kurn.md",
-    "Personaggi/Leesa.md",
-    "Personaggi/Khamet.md",
-    "Personaggi/Jorek.md",
-    "Personaggi/Jack e Rose.md",
-    "Personaggi/Isondra.md",
     "Geografia/Mappa.jpg",
     "Geografia/Trivellion/Trivellion (stemma).png",
     "Geografia/Trivellion/AMBIENCE - Teja.png",
     "Geografia/Trivellion/AMBIENCE - Kronaria.png",
     "Fazioni/Trivellion/ÈNCOUNTER - Valthaken.png",
-    "Campagna 2/Workflow Campagna 2.canvas",
     "Senza nome.base",
     "Senza nome 1.base",
     "Geografia/Avalon/Avalon (stemma).png",
@@ -250,8 +248,6 @@
     "Fazioni/Alfheim",
     "Cosmologi",
     "Geografia/Isole Divine",
-    "Geografia/Trivellion/Isole",
-    "Geografia/Trivellion",
-    "Geografia/Avalon"
+    "Geografia/Trivellion/Isole"
   ]
 }

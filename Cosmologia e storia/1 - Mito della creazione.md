@@ -50,11 +50,11 @@ Con la stabilizzazione climatica, gli abitanti di Athea scoprirono l'esistenza d
 
 Sotto la guida di Lyra e dei Primordiali, sorsero le **Prime Grandi Civiltà**:
 
-- **[[L'Impero Elfico di Sol-Aria]]:** Gli Elfi Alti ed Elfi dei Boschi unificarono le guglie montuose e le foreste in un regno basato sulla simbiosi tra magia arcana e natura.
+- **L'Impero Elfico di Sol-Aria:** Gli Elfi Alti ed Elfi dei Boschi unificarono le guglie montuose e le foreste in un regno basato sulla simbiosi tra magia arcana e natura.
     
-- **[[I Domini Sotterranei di Kazad]]:** Nani e Gnomi scavarono vaste metropoli nel sottosuolo, sfruttando il calore del nucleo (dominio di Talon) per alimentare le più grandi forge mai esistite.
+- **I Domini Sotterranei di Kazad:** Nani e Gnomi scavarono vaste metropoli nel sottosuolo, sfruttando il calore del nucleo (dominio di Talon) per alimentare le più grandi forge mai esistite.
     
-- **[[I Regni Umani Espansionisti]]:** Gli umani fondarono città-stato nelle pianure temperate, fungendo da ponte commerciale e culturale tra le razze più antiche.
+- **I Regni Umani Espansionisti:** Gli umani fondarono città-stato nelle pianure temperate, fungendo da ponte commerciale e culturale tra le razze più antiche.
     
 
 #### La Guerra dei Poteri
@@ -63,11 +63,11 @@ La prosperità portò inevitabilmente all'ambizione. La scintilla del conflitto 
 
 **L'Escalation del Conflitto:**
 
-1. **[[Guerra dei Cieli]]:** I Draghi Cromatici tentarono di sottomettere le razze minori. I Draghi Metallici si opposero. Lo scontro devastò intere regioni aeree.
+1. **Guerra dei Cieli:** I Draghi Cromatici tentarono di sottomettere le razze minori. I Draghi Metallici si opposero. Lo scontro devastò intere regioni aeree.
     
-2. **[[Il Risveglio dei Giganti]]:** I Giganti, minacciati dalla furia dei draghi, entrarono in guerra, scagliando intere montagne contro gli stormi in volo.
+2. **Il Risveglio dei Giganti:** I Giganti, minacciati dalla furia dei draghi, entrarono in guerra, scagliando intere montagne contro gli stormi in volo.
     
-3. **[[Il Coinvolgimento delle Nazioni]]:** Le civiltà umanoidi furono costrette a schierarsi, trasformando il conflitto in una **Guerra globale**:
+3. **Il Coinvolgimento delle Nazioni:** Le civiltà umanoidi furono costrette a schierarsi, trasformando il conflitto in una **Guerra globale**:
     
     - **Elfi vs Nani:** Una disputa sulle risorse magiche minerarie sfociò in una guerra di logoramento tra incantesimi e macchine d'assedio.
         

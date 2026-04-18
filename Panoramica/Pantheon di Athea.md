@@ -27,7 +27,7 @@ _Divinità giunte o ascese durante e dopo la Guerra dei Poteri, organizzate per 
 | **Pace**              | **Irena**     | F         | NB               | Dea della diplomazia, della tregua e della serenità.                  |
 | **Verità**            | **Lygas**     | M         | LN               | Dio della giustizia, dei patti e della realtà oggettiva.              |
 | **Inganno**           | **Dolus**     | F         | CM               | Dea delle illusioni, delle bugie e dei ladri.                         |
-| **Natura**            | **Sylva**     | F         | N                | Dea della flora, della fauna selvaggia e dei cicli naturali.          |
+| **[[Natura]]**            | **Sylva**     | F         | N                | Dea della flora, della fauna selvaggia e dei cicli naturali.          |
 | **Forgia**            | **Faber**     | M         | LN               | Dio dell'artigianato, della costruzione e del progresso tecnologico.  |
 | **Ordine**            | **Justicar**  | M         | LN               | Dio della legge, della gerarchia e della civiltà.                     |
 | **Caos**              | **Discordia** | F         | CN               | Dea dell'anarchia, del cambiamento improvviso e della libertà totale. |

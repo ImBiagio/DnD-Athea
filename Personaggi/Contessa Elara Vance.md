@@ -1,7 +1,7 @@
 
 > [!infobox]
 > # `=this.file.name`
-> ![[NPC - Contessa Elara Vance 1.png|cover hsmall]]
+> !cover hsmall
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -21,5 +21,5 @@
 # `=this.file.name`
 
 ## Profile
-Ricca finanziatrice dell'Accademia e figura politica di spicco. Usa la sua influenza per spingere l'esplorazione magitech in campi non sorvegliati.
+Ricca finanziatrice dell'[[Accademia]] e figura politica di spicco. Usa la sua influenza per spingere l'esplorazione magitech in campi non sorvegliati.
 

@@ -4,9 +4,9 @@
 
 ### Geografia e Clima
 
-I Monti Rimecrown prendono il nome dal fenomeno atmosferico che li caratterizza: le vette sono costantemente avvolte da una nube di cristalli di ghiaccio che, riflettendo la luce del sole o delle aurore, crea l'illusione di una corona scintillante. È una catena montuosa giovane e brutale, caratterizzata da picchi aguzzi come lance e pareti verticali di granito nero coperto da ghiaccio millenario.
+I Monti [[Catena montuosa Rimecrown|Rimecrown]] prendono il nome dal fenomeno atmosferico che li caratterizza: le vette sono costantemente avvolte da una nube di cristalli di ghiaccio che, riflettendo la luce del sole o delle aurore, crea l'illusione di una corona scintillante. È una catena montuosa giovane e brutale, caratterizzata da picchi aguzzi come lance e pareti verticali di granito nero coperto da ghiaccio millenario.
     
-### I Dominatori: [[I Giganti di Hrimgard]]
+### I Dominatori: I Giganti di Hrimgard
 
 Mentre i Goliath e gli Ogre abitano le pianure e le colline ai piedi delle montagne (a Frostfang [[Terre degli Ogre del Nord]]), le alte quote sono il dominio esclusivo dei **Giganti del Gelo**. Essi si considerano i "Primogeniti della Terra" e guardano alle razze di valle come a bambini da proteggere o punire a seconda dell'umore.
 
@@ -14,7 +14,7 @@ Mentre i Goliath e gli Ogre abitano le pianure e le colline ai piedi delle monta
     
     - **Struttura:** Le sale sono ciclopiche, arredate con mobili di pietra e pelli di Mammut Imperiale. Qui il fuoco è considerato un insulto; l'illuminazione è fornita da pietre lunari fredde.
         
-    - **Politica:** Qui risiede **[[Kurn]], il Re della Valanga**. La sua sala del trono è situata sulla vetta più alta, il _Dente di Ymir_, ed è perennemente esposta alla bufera.
+    - **Politica:** Qui risiede **Kurn, il Re della Valanga**. La sua sala del trono è situata sulla vetta più alta, il _Dente di Ymir_, ed è perennemente esposta alla bufera.
         
 
 ### Punti di Interesse
@@ -37,7 +37,7 @@ In una valle nascosta tra due picchi gemelli, giacciono gli scheletri di antichi
 
 #### 3. L'Osservatorio delle Stelle Gelide
 
-Sulla punta sud della catena, vicino al confine con le Terre Draconiche, sorge un monolite solitario abitato da un oracolo **Gigante delle Nubi** ed esiliato, di nome **[[Vako]]**.
+Sulla punta sud della catena, vicino al confine con le [[Terre Draconiche]], sorge un monolite solitario abitato da un oracolo **Gigante delle Nubi** ed esiliato, di nome **Vako**.
 
 - **Funzione:** Vako osserva le stelle per predire il ritorno di minacce antiche. È l'unico gigante che accetta di parlare con gli "stranieri" (umani o elfi), ma il prezzo per una sua profezia è sempre un ricordo felice, che il visitatore dimenticherà per sempre.
     
