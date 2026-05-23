@@ -1,5 +1,5 @@
 > [!infobox]
-> # Eteracciaio
+> # [[Eteracciaio]]
 > | | |
 > |---|---|
 > | **Tipologia** | Materiale per Forgiatura, Molto Raro |

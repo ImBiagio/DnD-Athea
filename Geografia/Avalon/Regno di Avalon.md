@@ -1,5 +1,5 @@
 > [!infobox]
-> # Regno di Avalon
+> # [[Regno di Avalon]]
 > *Il [[Regno di Avalon]] è fondato sui pilastri della spiritualità, della fede e della ferrea disciplina. Caratterizzato da una linea politica conservatrice, [[Regno di Avalon|Avalon]] preserva i princi...*
 
 ## Overview

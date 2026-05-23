@@ -1,4 +1,4 @@
 > [!infobox]
-> # Abisso Scarlatto
+> # [[Abisso Scarlatto]]
 > *...*
 

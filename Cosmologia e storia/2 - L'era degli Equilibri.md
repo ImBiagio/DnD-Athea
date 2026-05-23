@@ -11,7 +11,7 @@ Le quattro stirpi elfiche (Boschi, Alti, Mare e Fuoco) compresero che la loro so
     
 - **Capitale:** La capitale, **Syldra**, fu edificata su un immenso albero di cristallo cresciuto nel punto di convergenza di quattro _ley lines_ (linee di potere), sospesa tra terra e cielo.
     
-- **Culto:** Aelindor divenne il centro del culto di **Lyra** (Magia) e **Sylva** ([[Natura]]), mantenendo una politica di isolazionismo illuminato, proteggendo i confini con barriere magiche impenetrabili.
+- **Culto:** Aelindor divenne il centro del culto di **[[Città di Lyra|Lyra]]** (Magia) e **Sylva** ([[Natura]]), mantenendo una politica di isolazionismo illuminato, proteggendo i confini con barriere magiche impenetrabili.
     
 
 ### La Dicotomia Umana

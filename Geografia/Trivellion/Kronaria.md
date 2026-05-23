@@ -1,8 +1,8 @@
 > [!infobox]
-> # Kronaria
+> # [[Kronaria]]
 > *- **Il Grande Pozzo:** Cunicoli scavati nel sottosuolo per immagazzinare i detriti del raffinamento....*
 
-![[AMBIENCE - Kronaria.png]]
+!AMBIENCE - [[Kronaria]].png
 
 **Ruolo:** Snodo Minerario e Metallurgico. 
 

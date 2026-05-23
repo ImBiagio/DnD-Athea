@@ -1,4 +1,4 @@
 > [!infobox]
-> # Vladimir
+> # [[Vladimir]]
 > *...*
 

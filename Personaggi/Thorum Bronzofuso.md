@@ -1,6 +1,6 @@
 > [!infobox]
-> # Thorum Bronzofuso
+> # [[Thorum Bronzofuso]]
 > *...*
 
-![[NPC - Thorum Bronzofuso.png]]
+!NPC - [[Thorum Bronzofuso]].png
 

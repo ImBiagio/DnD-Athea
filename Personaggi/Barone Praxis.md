@@ -1,4 +1,4 @@
 > [!infobox]
-> # Barone Praxis
+> # [[Barone Praxis]]
 > *...*
 

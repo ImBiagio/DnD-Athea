@@ -1,5 +1,5 @@
 > [!infobox]
-> # Madame Vespera
+> # [[Madame Vespera]]
 > *...*
 
 # [[Madame Vespera]]

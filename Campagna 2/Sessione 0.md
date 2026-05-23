@@ -27,11 +27,11 @@
 [[Regni dopo la Grande Guerra]]
 
 > [!quote] 1. L'Anno Zero: L'Ascesa di [[Evolon]] (700 anni fa)
-> "Tutto ciò che esisteva prima di 700 anni fa è nebbia. La chiamiamo **[[La Grande Cancellazione]]**. Sappiamo solo che **[[Evolon]]**, un mago dal potere divino, cercò di piegare il mondo. Fu lui a creare l'**Abisso Scarlatto**, la ferita da cui emersero i demoni, e fu lui a risvegliare i primi non-morti.
-> Se oggi siamo qui è per tre figure leggendarie: **Vladimir**, **[[Mariel]]** e **[[$(Personaggi\Valerius.md Personaggi\Lord Valerius Pym.md Valerius Lord Valerius Pym[3])]]**. Loro hanno sigillato la sua malvagità. Contiamo gli anni da quel momento, l'Anno Zero (D.E.)."
+> "Tutto ciò che esisteva prima di 700 anni fa è nebbia. La chiamiamo **[[La Grande Cancellazione]]**. Sappiamo solo che **[[Evolon]]**, un mago dal potere divino, cercò di piegare il mondo. Fu lui a creare l'**[[Abisso Scarlatto]]**, la ferita da cui emersero i demoni, e fu lui a risvegliare i primi non-morti.
+> Se oggi siamo qui è per tre figure leggendarie: **[[Vladimir]]**, **[[Mariel]]** e **Valerius**. Loro hanno sigillato la sua malvagità. Contiamo gli anni da quel momento, l'Anno Zero (D.E.)."
 
 > [!quote] 2. La Guerra dell'[[Eterite]] (730 D.E. – 760 D.E.)
-> "Trent'anni fa, la brama di potere riaprì vecchie ferite. A **[[Khazad-Thul]]** fu scoperta l'**[[Eterite]]**: un minerale purosangue nato dal cataclisma.
+> "Trent'anni fa, la brama di potere riaprì vecchie ferite. A **[[Khazad-Thul]]** a causa dell'**[[Eterite]]**:
 >
 > - **A Ovest:** Il **[[Regno di Avalon]]**, guidato da **[[Re Solomos]]**, voleva occupare le miniere per 'purificare' il minerale.
 > - **A Est:** L'**[[Impero di Trivellion]]**, guidato da **[[Re Tybalt IV]]** vedeva l'[[Eterite]] come carburante del futuro.
@@ -44,7 +44,7 @@
 
 > [!quote] 4. Il Presente: La Pace Grigia (778 D.E. / Oggi)
 > "Fu firmato il **[[Trattato della Pietra Spezzata]]**.
-> **[[Re Solomos]]**, l'**[[$(Personaggi\Imperatore Tybalt IV.md Personaggi\Re Tybalt IV.md Imperatore Tybalt IV Re Tybalt IV[3])]]** e l'Arcimago **[[Alatar]]** sono visti oggi come gli eroi.
+> **[[Re Solomos]]**, *Re Tybalt V* e l'Arcimago **[[Alatar]]** sono visti oggi come gli eroi.
 >
 > Ma la pace è una farsa:
 > - **[[Regno di Avalon|Avalon]]** scambia l'[[Eterite]] dei Nani.

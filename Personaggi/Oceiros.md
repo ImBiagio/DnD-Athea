@@ -1,4 +1,4 @@
 > [!infobox]
-> # Oceiros
+> # [[Oceiros]]
 > *...*
 

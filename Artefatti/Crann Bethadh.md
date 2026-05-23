@@ -1,5 +1,5 @@
 > [!infobox]
-> # Crann Bethadh
+> # [[Crann Bethadh]]
 > | | |
 > |---|---|
 > | **Tipologia** | Risorsa, Raro |

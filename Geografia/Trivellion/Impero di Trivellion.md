@@ -1,5 +1,5 @@
 > [!infobox]
-> # Impero di Trivellion
+> # [[Impero di Trivellion]]
 > *L'[[Impero di Trivellion]] è guidato da una fede incrollabile nel progresso, nell'innovazione scientifica e nell'espansione industriale. [[Impero di Trivellion|Trivellion]] non considera la magia un m...*
 
 ## Overview

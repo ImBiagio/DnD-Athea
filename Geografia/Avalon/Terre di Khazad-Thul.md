@@ -1,5 +1,5 @@
 > [!infobox]
-> # Terre di Khazad-Thul
+> # [[Terre di Khazad-Thul]]
 > *EX Regno di [[Terre di Khazad-Thul|Khazad-Thul]]...*
 
 EX Regno di [[Terre di Khazad-Thul|Khazad-Thul]]
@@ -8,7 +8,7 @@ Regione montuosa e vulcanica a est.
 
 - Clima: Nonostante la latitudine, la zona è calda a causa dell'attività geotermica.
     
-- L'Abisso Scarlatto: Una gigantesca spaccatura al centro della regione.
+- L'[[Abisso Scarlatto]]: Una gigantesca spaccatura al centro della regione.
 [[4 - L'ascesa di Evolon]]
 
 - Le pareti brillano di rosso pulsante a causa dei giacimenti di [[Eterite]] e fiumi di magma.

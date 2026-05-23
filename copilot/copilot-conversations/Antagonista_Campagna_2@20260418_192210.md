@@ -48,46 +48,46 @@ Se hai già effettuato la ricerca e non vedi risultati, ti chiedo gentilmente di
 [Timestamp: 2026/04/18 19:25:54]
 
 **user**: mi dici i nomi degli npc che ci sono in questa nota?
-[Context: Notes: Campagna 2/Atto 1 - Nel palazzo reale di Teja.md]
+[Context: Notes: Campagna 2/[[Atto 1 - Nel palazzo reale di Teja]].md]
 [Timestamp: 2026/04/18 19:26:46]
 
 **ai**: Nella nota [[Atto 1 - Nel palazzo reale di Teja]], vengono menzionati i seguenti NPC:
 
 **NPC Principali e Antagonisti:**
-- **Alatar:** L'antagonista principale, colui che sta cercando di forzare il Sigillo di Erya.
-- **Erya:** La ragazza prigioniera nel laboratorio, al centro del piano di Alatar.
+- **[[Alatar]]:** L'antagonista principale, colui che sta cercando di forzare il Sigillo di [[Erya]].
+- **[[Erya]]:** La ragazza prigioniera nel laboratorio, al centro del piano di [[Alatar]].
 - **Il Bibliotecario:** Appare tramite ologramma durante il briefing.
 - **I 3 Lord Ink:** I committenti della missione.
 
 **NPC Secondari e Informatori:**
-- **Thorum Bronzofuso:** Ingegnere nano paranoico che fornisce il Disruttore Eterico.
-- **Srix:** Kenku ricettatore nei bassifondi.
-- **Mastro Glimmer:** Sarto di corte.
-- **Lord Valerius Pym:** Nobile che frequenta la bisca "Il Dado Truccato".
+- **[[Thorum Bronzofuso]]:** Ingegnere nano paranoico che fornisce il Disruttore Eterico.
+- **[[Srix]]:** Kenku ricettatore nei bassifondi.
+- **[[Mastro Glimmer]]:** Sarto di corte.
+- **[[Lord Valerius Pym]]:** Nobile che frequenta la bisca "Il Dado Truccato".
 - **Contessa Vania:** Nobile presente al ballo, sospettosa verso i PG.
 
 **NPC Alleati (Riferimenti del Master):**
-- **Guizzo:** Monello Tiefling, ladro arcano.
-- **Madame Rosaline:** Gestisce un bordello, utile per ricatti.
-- **Contessa Elara Vance:** Nobile elfa simpatizzante.
-- **Barone Korg:** Nano mercante rancoroso verso Alatar.
+- **[[Guizzo]]:** Monello Tiefling, ladro arcano.
+- **[[Madame Rosaline]]:** Gestisce un bordello, utile per ricatti.
+- **[[Contessa Elara Vance]]:** Nobile elfa simpatizzante.
+- **[[Barone Korg]]:** Nano mercante rancoroso verso [[Alatar]].
 
 **Altre creature/nemici citati:**
-- **Valthaken:** Guardie d'élite (Helmed Horror).
-- **Forgiati:** Soldati che pattugliano le caldaie.
+- **[[Valthaken]]:** Guardie d'élite (Helmed Horror).
+- **[[Forgiati]]:** Soldati che pattugliano le caldaie.
 [Timestamp: 2026/04/18 19:26:59]
 
 **user**: chi è l'antagonista?
-[Context: Notes: Campagna 2/Atto 1 - Nel palazzo reale di Teja.md]
+[Context: Notes: Campagna 2/[[Atto 1 - Nel palazzo reale di Teja]].md]
 [Timestamp: 2026/04/18 19:27:16]
 
-**ai**: L'antagonista principale della campagna descritta nella nota è **Alatar**.
+**ai**: L'antagonista principale della campagna descritta nella nota è **[[Alatar]]**.
 
-Egli è il responsabile del piano di infiltrazione e tortura che coinvolge la ragazza di nome **Erya**. È colui che detiene il controllo del palazzo reale, gestisce i sistemi di sicurezza (come i [[Valthaken]]) e, nell'epilogo, accusa i personaggi di essere i terroristi del Calamaio per sviare l'attenzione dal suo operato.
+Egli è il responsabile del piano di infiltrazione e tortura che coinvolge la ragazza di nome **[[Erya]]**. È colui che detiene il controllo del palazzo reale, gestisce i sistemi di sicurezza (come i [[Valthaken]]) e, nell'epilogo, accusa i personaggi di essere i terroristi del Calamaio per sviare l'attenzione dal suo operato.
 [Timestamp: 2026/04/18 19:27:17]
 
 **user**: come funziona light in D&D 5.5?
-[Context: Notes: Campagna 2/Atto 1 - Nel palazzo reale di Teja.md]
+[Context: Notes: Campagna 2/[[Atto 1 - Nel palazzo reale di Teja]].md]
 [Timestamp: 2026/04/18 19:27:48]
 
 **ai**: In D&D 5.5 (l'aggiornamento delle regole del 2024), l'incantesimo **Light** (Luce) ha subito alcune modifiche rispetto alla versione del 2014 per renderlo più chiaro e versatile. Ecco come funziona:

@@ -1,4 +1,4 @@
 > [!infobox]
-> # Il Piangente
+> # [[Il Piangente]]
 > *...*
 

@@ -1,5 +1,5 @@
 > [!infobox]
-> # Cittadina di Ellja
+> # [[Cittadina di Ellja]]
 > | | |
 > |---|---|
 > | **Il Porto** | Porto tradizionale dove partono e arrivano principalmente navi commerciali con [[Regno di Avalon|Avalon]] e le poche navi passeggere. |

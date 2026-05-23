@@ -1,5 +1,5 @@
 > [!infobox]
-> # Terre Draconiche
+> # [[Terre Draconiche]]
 > *- **Governo (Ex-Teocrazia):** Un tempo governata dai sommi sacerdoti, dopo una recente guerra civile il potere è passato a una **Giunta Militare** ("Le Scaglie di Ferro"). La religione è ancora forte,...*
 
 **Posizione:** Regione cuscinetto situata a nord dell'[[Impero di Trivellion]] e a sud delle Terre degli Ogre. 
@@ -22,7 +22,7 @@
 
 **Divinità:**
 
-- **Vorgath (Il Tiranno Cremisi):** Dio della dominazione, del fuoco e della forza bruta. Rappresentato come un drago rosso. I suoi templi sono fonderie sacre dove si sacrificano armi nemiche (e talvolta prigionieri) nella lava.
+- **[[Vorgath]] (Il Tiranno Cremisi):** Dio della dominazione, del fuoco e della forza bruta. Rappresentato come un drago rosso. I suoi templi sono fonderie sacre dove si sacrificano armi nemiche (e talvolta prigionieri) nella lava.
     
 
 ### 2. L'Est: La Valle e Vhal'drakken
@@ -40,7 +40,7 @@
 
 **Divinità:**
 
-- **Auralia (La Madre d'Oro):** Dea della giustizia, della protezione e della nobiltà d'animo. I suoi santuari sono aperti al cielo per permettere ai draghi (se mai tornassero) di atterrare. Predica la cooperazione e la diplomazia.
+- **[[Auralia]] (La Madre d'Oro):** Dea della giustizia, della protezione e della nobiltà d'animo. I suoi santuari sono aperti al cielo per permettere ai draghi (se mai tornassero) di atterrare. Predica la cooperazione e la diplomazia.
     
 
 ---
@@ -60,7 +60,7 @@ Le due fazioni vivono in una **Guerra Fredda** costante. Non si combattono apert
 
 - **Il Ponte dei Sospiri (Vhal'drakken):** Il ponte più lungo che collega l'isola centrale fluttuante alla terraferma nord. Si dice che il vento qui ululi i nomi dei caduti in mare.
     
-- **La Bocca di Vorgath (Drakkanor):** Un pozzo di lava a cielo aperto nella piazza principale di Drakkanor, usato per le esecuzioni pubbliche e per temprare le armi dei generali.
+- **La Bocca di [[Vorgath]] (Drakkanor):** Un pozzo di lava a cielo aperto nella piazza principale di Drakkanor, usato per le esecuzioni pubbliche e per temprare le armi dei generali.
     
 
 ### Il Guardiano Elementale (Condiviso/Conteso)

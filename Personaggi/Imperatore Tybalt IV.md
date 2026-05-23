@@ -1,4 +1,0 @@
-> [!infobox]
-> # Imperatore Tybalt IV
-> *...*
-

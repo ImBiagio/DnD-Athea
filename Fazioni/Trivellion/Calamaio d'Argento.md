@@ -1,5 +1,5 @@
 > [!infobox]
-> # Calamaio d'Argento
+> # [[Calamaio d'Argento]]
 > *Il [[Calamaio d'Argento]] è un'organizzazione segreta che opera nelle ombre di [[Impero di Trivellion|Trivellion]]. Agli occhi del popolo, sono eroi romantici che rubano ai ricchi e sabotano le fabbri...*
 
 **Tipologia:** Organizzazione di Spionaggio / Resistenza Rivoluzionaria.

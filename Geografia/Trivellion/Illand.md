@@ -1,5 +1,5 @@
 > [!infobox]
-> # Illand
+> # [[Illand]]
 > *Oggi è un territorio formalmente sotto la giurisdizione dell'[[Impero di Trivellion]], ma di fatto è anarchico, battuto da tempeste di Miasma Trasmutativo e infestato da aberrazioni distorte dalle ene...*
 
 ## Overview
@@ -48,12 +48,12 @@ Oggi è un territorio formalmente sotto la giurisdizione dell'[[Impero di Trivel
 
 ### Il Guardiano Elementale
 
-**Nome:** **Khamet, il Viandante delle Dune** **[[Natura]]:** Golem Elementale di Sabbia e Fulmine.
+**Nome:** **[[Khamet]], il Viandante delle Dune** **[[Natura]]:** Golem Elementale di Sabbia e Fulmine.
 
-Khamet è l'incarnazione della natura mutevole e pericolosa di [[Illand]].
+[[Khamet]] è l'incarnazione della natura mutevole e pericolosa di [[Illand]].
 
 - **Aspetto:** Una figura umanoide alta quattro metri, il cui corpo è composto da sabbia vorticante tenuta insieme da archi elettrici statici (generati dall'attrito del deserto). Il suo "volto" è una maschera di vetro grezzo formata dal calore di un fulmine.
     
-- **Comportamento:** Khamet vaga incessantemente dal deserto alle praterie. Non parla, ma il suo passaggio è annunciato da tempeste di sabbia improvvise.
+- **Comportamento:** [[Khamet]] vaga incessantemente dal deserto alle praterie. Non parla, ma il suo passaggio è annunciato da tempeste di sabbia improvvise.
     
-- **Ruolo:** Agisce come spazzino del deserto. Seppellisce le rovine della guerra sotto le dune, cercando di cancellare le cicatrici lasciate dagli uomini. È neutrale ma reagisce con furia violenta contro chi usa magia distruttiva nel suo territorio, percependo l'uso arcano eccessivo come una nuova minaccia di "Incidente". Gli Orchi di Iron's Grasp lo rispettano e lasciano i loro morti nel deserto affinché Khamet li "restituisca alla terra".
+- **Ruolo:** Agisce come spazzino del deserto. Seppellisce le rovine della guerra sotto le dune, cercando di cancellare le cicatrici lasciate dagli uomini. È neutrale ma reagisce con furia violenta contro chi usa magia distruttiva nel suo territorio, percependo l'uso arcano eccessivo come una nuova minaccia di "Incidente". Gli Orchi di Iron's Grasp lo rispettano e lasciano i loro morti nel deserto affinché [[Khamet]] li "restituisca alla terra".

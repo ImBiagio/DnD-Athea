@@ -1,5 +1,5 @@
 > [!infobox]
-> # Khazad-Thul
+> # [[Terre di Khazad-Thul|Khazad-Thul]]
 > *Attualmente, in base al [[Trattato della Pietra Spezzata]], la nazione è stata annessa ad [[Regno di Avalon|Avalon]], che la governa con il pugno di ferro. I nani e gli gnomi sono stati ridotti a forz...*
 
 ## Overview

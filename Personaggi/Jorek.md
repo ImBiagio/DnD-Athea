@@ -1,5 +1,5 @@
 > [!infobox]
-> # Jorek
+> # [[Jorek]]
 > *...*
 
 # [[Jorek]]

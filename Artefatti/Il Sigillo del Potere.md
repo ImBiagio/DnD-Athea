@@ -1,5 +1,5 @@
 > [!infobox]
-> # Il Sigillo del Potere
+> # [[Il Sigillo del Potere]]
 > | | |
 > |---|---|
 > | **Tipologia** | Artefatto, Leggendario |

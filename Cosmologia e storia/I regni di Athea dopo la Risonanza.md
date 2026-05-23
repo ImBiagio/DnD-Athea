@@ -6,14 +6,14 @@ In seguito alla stabilizzazione del [[Continente di Doublefang (Athea)]] e alla 
 
 - **[[Regno di Avalon]] (Ovest):** Sorto dalle ceneri del conservatore Valdoria Il Sacro Regno di Valdoria, occupò l'intera "Zanna Sinistra". Mantenne una struttura feudale e militare, consolidando il culto della Luce e dell'Ordine.
     
-- **Regno di [[Impero di Trivellion|Trivellion]] (Est):** Erede del progressista Aethelgard L'Impero Progressista di Aethelgard, si stabilì sulla "Zanna Destra". Continuò la sua ricerca magitech e arcana, sfruttando la vicinanza con l'Isola Demonica per studi (spesso pericolosi) sulle energie planari.
+- **Regno di [[Impero di Trivellion|Trivellion]] (Est):** Erede del progressista Aethelgard L'Impero Progressista di Aethelgard, si stabilì sulla "Zanna Destra". Continuò la sua ricerca magitech e arcana, sfruttando la vicinanza con l'[[Isola Demonica]] per studi (spesso pericolosi) sulle energie planari.
     
 
 **Il Centro e il Nord**
 
 - **[[Khazad-Thul]]:** Il regno nanico mantenne la sua posizione centrale tra le due Zanne. Nani e Gnomi iniziarono a colonizzare massicciamente anche la superficie delle catene montuose centrali, lasciando le profondità parzialmente incustodite.
     
-- **Regno di Alfheim:** L'ex Aelindor si ristabilì all'estremo Nord, ai piedi dei Monti Efreei.
+- **Regno di Alfheim:** L'ex Aelindor si ristabilì all'estremo Nord, ai piedi dei [[Monti Efreei]].
     
     - _La Diaspora Elfica:_ L'unità della razza elfica si fratturò.
         

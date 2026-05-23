@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf9a4f93edcc1413",
+        "id": "a9d752b2d9856450",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e5f9bf389fa333",
+            "id": "384f4e4dcc1381b7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.50000381469727
   },
   "right": {
     "id": "70ef6ca68c58fe47",
@@ -93,18 +93,78 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "635400e509988ba7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Atto 1 - Nel palazzo reale di Teja"
+            }
+          },
+          {
+            "id": "bfd2c925cb01feda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Atto 1 - Nel palazzo reale di Teja"
+            }
+          },
+          {
+            "id": "a5ae062ad4884132",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "edca47b684cede65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Atto 1 - Nel palazzo reale di Teja"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 710.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Open Copilot Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -113,60 +173,63 @@
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "smart-lookup:Smart Lookup: Open lookup view": false
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "474f1acf65d4f55d",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/Antagonista_Campagna_2@20260418_192210.md",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "install_copilot.ps1",
-    "Personaggi/Alatar.md",
+    "Athea_Knowledge_Base_Completa.md",
+    "Geografia/Avalon/Foresta di Rata.md",
+    "Geografia/Avalon/Foresta di Brun.md",
+    "Geografia/Avalon/Avalon (stemma).png",
+    "Geografia/Avalon/Abisso Scarlatto.md",
+    "Geografia/Isole Divine/Isola Demonica.md",
+    "Geografia/Isole Divine/Isola Celestiale.md",
+    "Geografia/Isole Divine/Città di Pandemonium.md",
+    "Geografia/Isole Divine/Città di Lyra.md",
     "Geografia/Trivellion/Terre Draconiche.md",
+    "Geografia/Trivellion/Regione di Illand.md",
+    "Geografia/Trivellion/Khazad-Thul.md",
+    "Geografia/Trivellion/Drakkenheim.md",
+    "Geografia/Trivellion/Foresta del Ferro.md",
+    "compile_vault.py",
     "Geografia/Trivellion/Illand.md",
-    "Geografia/Trivellion/Kronaria.md",
-    "Geografia/Trivellion/Impero di Trivellion.md",
+    "Geografia/Trivellion/Città di Teja.md",
+    "Geografia/Trivellion/Cittadina di Damazia.md",
     "Geografia/Trivellion/Cittadina di Ellja.md",
+    "Geografia/Trivellion/Kronaria.md",
+    "Geografia/Trivellion.md",
+    "Geografia/Natura.md",
+    "Eventi/Trattato della Pietra Spezzata.md",
+    "Eventi/La Grande Cancellazione.md",
+    "Eventi/Incidente di Illand.md",
+    "Personaggi/Borg Mezza-Mano.md",
     "Campagna 2/Schermo del Master Teja-Trivellion.md",
-    "install_sc.ps1",
+    "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
+    "Geografia/Alfheim",
     "Campagna 2/Workflow Campagna 2.canvas",
-    "Fazioni/Trivellion/Le Colonie Penali (I Ceppi).md",
-    "Fazioni/Trivellion/ÈNCOUNTER - Valthaken.png",
-    "Fazioni/Trivellion/Valthaken.md",
-    "move_images.py",
-    "make_infoboxes.py",
-    "dump.json",
-    "extract.py",
-    "process_links.py",
     "Senza nome 1.canvas",
     "Senza nome.canvas",
     "Canvas.canvas",
-    "Geografia/Mappa.jpg",
-    "Geografia/Trivellion/Trivellion (stemma).png",
-    "Geografia/Trivellion/AMBIENCE - Teja.png",
-    "Geografia/Trivellion/AMBIENCE - Kronaria.png",
-    "Geografia/Avalon/Avalon (stemma).png",
-    "Personaggi/AMBIENCE - Stamperia 1.png",
-    "Personaggi/AMBIENCE - Alchimista cieco 1.png",
-    "Personaggi/AMBIENCE - Ingranaggi di Trixie 1.png",
-    "Personaggi/AMBIENCE - Calice di Eterite 1.png"
+    "Personaggi/NPC - Srix.png",
+    "Personaggi/NPC - Re Tybalt IV.png",
+    "Personaggi/NPC - Madame Rosaline.png",
+    "Personaggi/NPC - Guizzo.png",
+    "Personaggi/NPC - Erya.png",
+    "Personaggi/NPC - Alatar.png",
+    "Personaggi/NPC - Contessa Elara Vance.png",
+    "Personaggi/NPC - Barone Korg.png",
+    "Personaggi/NPC - Librarian.png",
+    "Senza nome 1.base",
+    "Senza nome.base",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "install_copilot.ps1",
+    "install_sc.ps1",
+    "move_images.py"
   ]
 }

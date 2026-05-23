@@ -1,5 +1,5 @@
 > [!infobox]
-> # Silas
+> # [[Silas]]
 > *...*
 
 # [[Silas]]

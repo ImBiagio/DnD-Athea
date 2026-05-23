@@ -1,5 +1,5 @@
 > [!infobox]
-> # Città di Teja
+> # [[Città di Teja]]
 > *L'architettura di [[Città di Teja|Teja]] è definita "Brutalismo Arcano": strutture massicce di ferro rinforzato, ottone lucidato e pietra scura, integrate con cristalli pulsanti e tubature a vista che...*
 
 **Capitale dell'[[Impero di Trivellion]]**
@@ -45,7 +45,7 @@ L'architettura di [[Città di Teja|Teja]] è definita "Brutalismo Arcano": strut
 
 - **Il Complesso Industriale "Efesto":** Un'intera sezione della città dedicata alle fonderie, alle raffinerie di [[Eterite]] e alle catene di montaggio. Il rumore dei martelli pneumatici e il calore degli altiforni sono costanti. Qui si producono le armi e le tecnologie che sostengono l'Impero.
     
-- **Gli Aereoporti Eterei (Aether-Docks):** Enormi moli d'attracco che sporgono dai fianchi della città, dove le grandi aeronavi imperiali (navi volanti sostenute da motori a propulsione arcana) caricano merci e passeggeri. Collegano [[Città di Teja|Teja]] alle città subordinate di **[[Kronaria]]** (snodo minerario), **[[$(Geografia\Trivellion\Cittadina di Damazia.md Geografia\Trivellion\Damazia.md Cittadina di Damazia Damazia[3])]]** (centro agricolo intensivo) e **[[Cittadina di Ellja]]** (avamposto costiero),
+- **Gli Aereoporti Eterei (Aether-Docks):** Enormi moli d'attracco che sporgono dai fianchi della città, dove le grandi aeronavi imperiali (navi volanti sostenute da motori a propulsione arcana) caricano merci e passeggeri. Collegano [[Città di Teja|Teja]] alle città subordinate di **[[Kronaria]]** (snodo minerario), **[[Cittadina di Damazia|Damazia]]** (centro agricolo intensivo) e **[[Cittadina di Ellja]]** (avamposto costiero),
 
 - **L'Officina-Caserma dei Fazioni/[[Impero di Trivellion|Trivellion]]/[[Forgiati]] (Il "Dormitorio Silenzioso"):** Situata al confine con i bassifondi, questa struttura è un ibrido tra una fortezza e un'officina meccanica. È il quartier generale della forza di polizia cittadina, composta quasi esclusivamente dai **Fazioni/[[Impero di Trivellion|Trivellion]]/[[Forgiati]]** veterani della Grande Guerra.
 

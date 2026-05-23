@@ -1,4 +1,4 @@
 > [!infobox]
-> # Città di Pandemonium
+> # [[Città di Pandemonium]]
 > *...*
 

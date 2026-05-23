@@ -1,4 +1,4 @@
 > [!infobox]
-> # Leviustro
+> # [[Leviustro]]
 > *...*
 

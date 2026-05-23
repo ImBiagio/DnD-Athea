@@ -1,4 +1,4 @@
 > [!infobox]
-> # Isondra
+> # [[Isondra]]
 > *...*
 

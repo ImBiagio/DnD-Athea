@@ -1,4 +1,4 @@
 > [!infobox]
-> # Thomas lo Scaltro
+> # [[Thomas lo Scaltro]]
 > *...*
 

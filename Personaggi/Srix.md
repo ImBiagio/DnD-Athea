@@ -1,6 +1,6 @@
 > [!infobox]
-> # Srix
+> # [[Srix]]
 > *...*
 
-![[NPC - Srix.png]]
+!NPC - [[Srix]].png
 

@@ -70,7 +70,7 @@
 > | Birra scadente | 5 mr (Rame) | Sa di metallo puro. |
 > | Vino / Birra buona | 2-5 ma (Argento) | Rarissimi nei bassifondi. |
 > | Pasto operaio | 3 ma | Razione nutriente ma insapore (pasta sintetica). |
-> | Frutta fresca (es. Mela) | 1 mo (Oro) | Status Symbol, arriva da **[[Cittadinia di Damazia]]**. |
+> | Frutta fresca (es. Mela) | 1 mo (Oro) | Status Symbol, arriva da **[[Cittadina di Damazia]]**. |
 > | **Tecnologia & Arcanotecnica** | | |
 > | Munizioni di **[[Fulmite]]** (x10) | 3 mo | Serve il porto d'armi. |
 > | Batteria di **[[Eterite]]** (Piccola) | 15 mo | Gadget, dispositivi. |

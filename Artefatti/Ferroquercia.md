@@ -1,5 +1,5 @@
 > [!infobox]
-> # Ferroquercia
+> # [[Ferroquercia]]
 > | | |
 > |---|---|
 > | **Tipologia** | Risorsa, Non Comune |

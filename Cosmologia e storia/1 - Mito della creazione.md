@@ -46,9 +46,9 @@ Una volta reso il pianeta abitabile, Gli Dei Primordiali avviarono il popolament
   
 ### L'era della civiltà
 
-Con la stabilizzazione climatica, gli abitanti di Athea scoprirono l'esistenza della **Trama**. A causa della natura convergente del pianeta, il tessuto magico risultava più denso e reattivo rispetto a qualsiasi altro luogo del multiverso. I primordiali, essendo entità focalizzate sulla materia grezza, si rivelarono incapaci di manipolare la raffinatezza della Trama. Riconoscendo il limite infransero il segreto di Lord Ao, invocarono l'aiuto di Mystra. La Madre della Magia, impossibilitata a intervenire direttamente senza attirare l'attenzione degli altri dei maggiori, scisse una parte della propria essenza creando **Lyra**, un avatar divino indipendente incaricato di gestire la Trama di Athea.
+Con la stabilizzazione climatica, gli abitanti di Athea scoprirono l'esistenza della **Trama**. A causa della natura convergente del pianeta, il tessuto magico risultava più denso e reattivo rispetto a qualsiasi altro luogo del multiverso. I primordiali, essendo entità focalizzate sulla materia grezza, si rivelarono incapaci di manipolare la raffinatezza della Trama. Riconoscendo il limite infransero il segreto di Lord Ao, invocarono l'aiuto di Mystra. La Madre della Magia, impossibilitata a intervenire direttamente senza attirare l'attenzione degli altri dei maggiori, scisse una parte della propria essenza creando **[[Città di Lyra|Lyra]]**, un avatar divino indipendente incaricato di gestire la Trama di Athea.
 
-Sotto la guida di Lyra e dei Primordiali, sorsero le **Prime Grandi Civiltà**:
+Sotto la guida di [[Città di Lyra|Lyra]] e dei Primordiali, sorsero le **Prime Grandi Civiltà**:
 
 - **L'Impero Elfico di Sol-Aria:** Gli Elfi Alti ed Elfi dei Boschi unificarono le guglie montuose e le foreste in un regno basato sulla simbiosi tra magia arcana e natura.
     
@@ -80,7 +80,7 @@ La prosperità portò inevitabilmente all'ambizione. La scintilla del conflitto 
 
 #### Un nuovo Pantheon
 
-La violenza raggiunse un livello tale da minacciare la stabilità strutturale di Athea. I Primordiali e Lyra intervennero simultaneamente per sedare il conflitto. L'energia sprigionata in questo atto di pacificazione forzata fu talmente vasta da squarciare il velo di segretezza tessuto da Lord Ao.
+La violenza raggiunse un livello tale da minacciare la stabilità strutturale di Athea. I Primordiali e [[Città di Lyra|Lyra]] intervennero simultaneamente per sedare il conflitto. L'energia sprigionata in questo atto di pacificazione forzata fu talmente vasta da squarciare il velo di segretezza tessuto da Lord Ao.
 
 L'Anomalia divenne visibile agli occhi di tutte le divinità del Multiverso. Affascinati e preoccupati da un mondo dove tutti i piani convergevano, numerose divinità maggiori e minori discesero su Athea per reclamarne il controllo o proteggerne gli aspetti. Le popolazioni furono intensamente influenzate dalle nuove divinità e in breve tempo si instaurò un nuovo ordine cosmico: il **[[Pantheon di Athea]]**. Gli dei, per evitare la distruzione del pianeta, si spartirono i domini dell'esistenza, ponendo fine alla Guerra dei Poteri e instaurando un'era di equilibri.
 [[2 - L'era degli Equilibri]]

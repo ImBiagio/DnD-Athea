@@ -170,4 +170,4 @@ La piazza è nel caos. [[Erya]] polverizza le guardie rimaste con un'onda oscura
 > 4. Oryn (Aria) -> Monaco/Ranger
 > 5. Nyxara (Oscurità) -> Ladro/Warlock
 > 6. Solas (Luce) -> Paladino/Aasimar
-> 7. Lyra (Magia) -> Mago/Stregone
+> 7. [[Città di Lyra|Lyra]] (Magia) -> Mago/Stregone

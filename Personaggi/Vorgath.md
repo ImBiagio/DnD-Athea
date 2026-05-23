@@ -1,4 +1,4 @@
 > [!infobox]
-> # Vorgath
+> # [[Vorgath]]
 > *...*
 

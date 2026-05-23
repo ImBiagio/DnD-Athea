@@ -59,6 +59,6 @@ I [[Valthaken]] operano spesso in borghese per infiltrarsi, ma quando scendono i
 
 ### Rapporti con le Istituzioni
 
-- **L'[[$(Personaggi\Imperatore Tybalt IV.md Personaggi\Re Tybalt IV.md Imperatore Tybalt IV Re Tybalt IV[3])]]:** Ignora completamente l'esistenza dell'ordine. Crede che [[Alatar]] utilizzi i normali servizi segreti imperiali. Se scoprisse di questo esercito privato, lo considererebbe alto tradimento.
+- **L'[[Re Tybalt IV|Imperatore Tybalt IV]]:** Ignora completamente l'esistenza dell'ordine. Crede che [[Alatar]] utilizzi i normali servizi segreti imperiali. Se scoprisse di questo esercito privato, lo considererebbe alto tradimento.
     
 - **La Guardia Cittadina:** I capitani di alto rango di [[Città di Teja|Teja]] sanno che quando vedono il simbolo dei [[Valthaken]], devono ritirare le loro truppe e non fare domande. C'è una tensione palpabile: le guardie regolari li odiano ma ne sono terrorizzate.

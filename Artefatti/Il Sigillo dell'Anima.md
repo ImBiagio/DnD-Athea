@@ -1,5 +1,5 @@
 > [!infobox]
-> # Il Sigillo dell'Anima
+> # [[Il Sigillo dell'Anima]]
 > | | |
 > |---|---|
 > | **Tipologia** | Artefatto, Leggendario |

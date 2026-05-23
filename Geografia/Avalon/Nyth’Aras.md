@@ -1,4 +1,4 @@
 > [!infobox]
-> # Nyth’Aras
+> # [[Nyth’Aras]]
 > *...*
 

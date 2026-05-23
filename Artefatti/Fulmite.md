@@ -1,5 +1,5 @@
 > [!infobox]
-> # Fulmite
+> # [[Fulmite]]
 > | | |
 > |---|---|
 > | **Tipologia** | Risorsa, Rara |

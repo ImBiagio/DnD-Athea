@@ -1,4 +1,4 @@
 > [!infobox]
-> # I Giganti di Hrimgard
+> # [[I Giganti di Hrimgard]]
 > *...*
 

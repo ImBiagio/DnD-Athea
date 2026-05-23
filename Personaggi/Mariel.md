@@ -1,5 +1,5 @@
 > [!infobox]
-> # Mariel
+> # [[Mariel]]
 > *...*
 
 # [[Mariel]]

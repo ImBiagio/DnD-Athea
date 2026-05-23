@@ -1,4 +1,1 @@
-> [!infobox]
-> # Forgiati
-> *...*
-
+# [[Fazioni/Trivellion/Forgiati]]

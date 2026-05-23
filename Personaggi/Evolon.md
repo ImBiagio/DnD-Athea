@@ -1,5 +1,5 @@
 > [!infobox]
-> # Evolon
+> # [[Evolon]]
 > *...*
 
 # [[Evolon]]

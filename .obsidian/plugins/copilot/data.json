@@ -12,7 +12,7 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "AIzaSyAiR2k3n0xt1OyOrPgeUCYwZ5ZTnBH9pWs",
+  "googleApiKey": "AIzaSyC7TzExOI62GlFoV0v0ai_qNokEm4YfIqE",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
@@ -48,7 +48,6 @@
   "chatNoteContextTags": [],
   "enableIndexSync": true,
   "debug": false,
-  "enableEncryption": false,
   "maxSourceChunks": 30,
   "enableInlineCitations": true,
   "groqApiKey": "",
@@ -72,6 +71,26 @@
       "isBuiltIn": true,
       "core": true,
       "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5.5",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5.4-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
       "capabilities": [
         "vision"
       ]
@@ -102,8 +121,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -299,6 +318,11 @@
       "name": "gemma-4-31b-it",
       "provider": "google",
       "enabled": true
+    },
+    {
+      "name": "gemini-3.1-flash-lite",
+      "provider": "google",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [
@@ -413,16 +437,18 @@
   "promptSortStrategy": "timestamp",
   "chatHistorySortStrategy": "recent",
   "projectListSortStrategy": "recent",
+  "projectsFolder": "copilot/projects",
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "3.3.3",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
   "enableSemanticSearchV3": false,
   "enableSelfHostMode": false,
   "enableMiyo": false,
+  "miyoSearchAll": false,
   "selfHostModeValidatedAt": null,
   "selfHostValidationCount": 0,
   "selfHostUrl": "",
@@ -459,5 +485,6 @@
   "userSystemPromptsFolder": "copilot/system-prompts",
   "defaultSystemPromptTitle": "",
   "autoCompactThreshold": 128000,
-  "convertedDocOutputFolder": ""
+  "convertedDocOutputFolder": "",
+  "_keychainVaultId": "dfa7f7f2"
 }

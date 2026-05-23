@@ -1,4 +1,0 @@
-> [!infobox]
-> # Monti Efreei
-> *...*
-

@@ -44,6 +44,6 @@ I membri dei Ceppi non sono soldati, ma sono pericolosi.
 
 - **Verso [[Impero di Trivellion|Trivellion]]:** Odio puro, misto a rassegnazione.
     
-- **Verso le Driadi e Arboros:** Terrore assoluto. I prigionieri sanno di essere gli invasori e le prime vittime della vendetta della foresta. Spesso lasciano offerte di nascosto agli spiriti per essere risparmiati.
+- **Verso le Driadi e [[Arboros]]:** Terrore assoluto. I prigionieri sanno di essere gli invasori e le prime vittime della vendetta della foresta. Spesso lasciano offerte di nascosto agli spiriti per essere risparmiati.
     
 - **Verso gli Avventurieri:** I Ceppi sono luoghi ottimi per ottenere informazioni sul mercato nero, nascondersi dalle guardie cittadine (se si ha lo stomaco forte) o reclutare disperati pronti a tutto pur di fuggire.

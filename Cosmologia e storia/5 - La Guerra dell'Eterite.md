@@ -1,13 +1,13 @@
 
 Data: 730 D.E. – 760 D.E.
 
-Esito: [[[Trattato della Pietra Spezzata]]]; Annessione di [[[Terre di Khazad-Thul|Khazad-Thul]]] ad [[[Regno di Avalon|Avalon]]]; Stallo geopolitico.
+Esito: [[[Trattato della Pietra Spezzata]]]; Annessione di [[Terre di Khazad-Thul|Khazad-Thul]]] ad [[Avalon]]]; Stallo geopolitico.
 
 ### Contesto Storico
 
 Per circa sette secoli dopo l'Ascesa di [[Evolon]], Athea visse un periodo di relativa stabilità, minata unicamente dalle attività sotterranee del Culto dell'Eclissi, una setta dedita alla venerazione dell'entità esiliata.
 
-Nel 730 A.E., l'equilibrio tra le potenze continentali si infranse a seguito della scoperta di vasti giacimenti di [[Eterite]] nelle profondità di [[Khazad-Thul]]. Questo minerale, generato dalle radiazioni magiche dell'Abisso Scarlatto, possiede capacità di conduzione arcana illimitate, rendendolo la risorsa strategica più preziosa del pianeta.
+Nel 730 A.E., l'equilibrio tra le potenze continentali si infranse a seguito della scoperta di vasti giacimenti di [[Eterite]] nelle profondità di [[Khazad-Thul]]. Questo minerale, generato dalle radiazioni magiche dell'[[Abisso Scarlatto]], possiede capacità di conduzione arcana illimitate, rendendolo la risorsa strategica più preziosa del pianeta.
 
 ### Fazioni e Obiettivi
 
@@ -57,7 +57,7 @@ Tra le migliaia di caduti, si registrarono uniche anomalie statistiche riguardan
 2. **[[Erya]]:** Figlia di [[Jack e Rose]], nata a Firth. È l'attuale **Incarnazione Vivente del Sigillo dell'Anima**. L'essenza di [[Evolon]] si è fusa con la bambina durante la gestazione; i genitori sono riusciti a stabilizzarne le manifestazioni magiche durante l'infanzia.
     
 
-### Conseguenze Geopolitiche: [[$(Eventi\Il Trattato della Pietra Spezzata.md Eventi\Trattato della Pietra Spezzata.md Il Trattato della Pietra Spezzata Trattato della Pietra Spezzata[3])]]
+### Conseguenze Geopolitiche: [[Trattato della Pietra Spezzata]]
 
 La guerra si concluse con la firma di un armistizio che ridisegnò la mappa di Doublefang.
 

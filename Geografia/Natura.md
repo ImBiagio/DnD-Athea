@@ -1,5 +1,5 @@
 > [!infobox]
-> # Natura
+> # [[Natura]]
 > *In Athea, l'ambiente non è solo uno sfondo inerte. La terra, l'acqua e il cielo sono intrisi di Antica Magia....*
 
 ## Geologia
@@ -16,4 +16,4 @@ Il Mare del Commercio Vasta distesa d'acqua che separa i continenti, dichiarata 
 
 - Navigazione: È solcato quasi esclusivamente da navi mercantili e convogli scortati. Il trasporto passeggeri è raro e costoso a causa dei pericoli.
 
-Minacce: Oltre ai pirati della "[[Flotta Grigia]]" che assaltano le navi prive di bandiera protetta, le acque sono infestate. La leggenda più temuta è il Leviustro, un mostro marino colossale simile a un crostaceo corazzato.**
+Minacce: Oltre ai pirati della "[[Flotta Grigia]]" che assaltano le navi prive di bandiera protetta, le acque sono infestate. La leggenda più temuta è il [[Leviustro]], un mostro marino colossale simile a un crostaceo corazzato.**

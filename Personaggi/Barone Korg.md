@@ -1,6 +1,6 @@
 > [!infobox]
-> # Barone Korg
+> # [[Barone Korg]]
 > *...*
 
-![[NPC - Barone Korg 1.png]]
+!NPC - [[Barone Korg]] 1.png
 

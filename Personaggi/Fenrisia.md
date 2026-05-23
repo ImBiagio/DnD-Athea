@@ -1,4 +1,4 @@
 > [!infobox]
-> # Fenrisia
+> # [[Fenrisia]]
 > *...*
 

@@ -20,7 +20,7 @@ _Divinità giunte o ascese durante e dopo la Guerra dei Poteri, organizzate per 
 
 | **Dominio**           | **Divinità**  | **Sesso** | **Allineamento** | **Descrizione Sintetica**                                             |
 | --------------------- | ------------- | --------- | ---------------- | --------------------------------------------------------------------- |
-| **Magia**             | **Lyra**      | F         | NB               | L'Avatar di Mystra, tessitrice della Trama di Athea.                  |
+| **Magia**             | **[[Città di Lyra|Lyra]]**      | F         | NB               | L'Avatar di Mystra, tessitrice della Trama di Athea.                  |
 | **Vita**              | **Aelia**     | F         | LB               | Dea della nascita, della fertilità e della guarigione spirituale.     |
 | **Morte**             | **Hades**     | M         | LM               | Dio del trapasso, della fine ineluttabile e del giudizio finale.      |
 | **Guerra**            | **Bellum**    | M         | LM               | Dio del conflitto, della conquista e della forza bruta.               |
@@ -38,5 +38,5 @@ _Divinità giunte o ascese durante e dopo la Guerra dei Poteri, organizzate per 
 | **Istinto**           | **Ferus**     | M         | CN               | Dio dell'intuizione, della rabbia primordiale e della sopravvivenza.  |
 | **Conoscenza**        | **Sophia**    | F         | LN               | Dea dello studio, della storia, della logica e della memoria.         |
 | **Non Morte, Demoni** | **[[Evolon]]**    | M         | CM               | Dio asceso della necromanzia e dei demoni                             |
-| **Draghi Cromatici**  | **Vorgath**   | M         | CM               | Divinità minore dei Draghi cromatici                                  |
-| **Draghi Metallici**  | **Auralia**   | F         | LB               | Divinità minore dei Draghi metallici                                  |
+| **Draghi Cromatici**  | **[[Vorgath]]**   | M         | CM               | Divinità minore dei Draghi cromatici                                  |
+| **Draghi Metallici**  | **[[Auralia]]**   | F         | LB               | Divinità minore dei Draghi metallici                                  |

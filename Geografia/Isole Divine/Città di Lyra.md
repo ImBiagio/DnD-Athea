@@ -1,4 +1,4 @@
 > [!infobox]
-> # Città di Lyra
+> # [[Città di Lyra]]
 > *...*
 

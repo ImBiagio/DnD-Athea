@@ -1,5 +1,5 @@
 > [!infobox]
-> # Foresta del Ferro
+> # [[Foresta del Ferro]]
 > *La [[Foresta del Ferro]] segna il confine naturale dove l'urbanizzazione frenetica di [[Città di Teja|Teja]] inizia a diradarsi. È un luogo cupo, caratterizzato da alberi giganteschi con cortecce grig...*
 
 ### Descrizione e Risorse
@@ -27,14 +27,14 @@ La foresta non è disabitata, ma la popolazione è divisa tra sfruttatori e nati
 
 ### Il Guardiano Elementale
 
-**Nome:** **Arboros, il Colosso Grigio** **[[Natura]]:** Antico Treant (Ent) corazzato.
+**Nome:** **[[Arboros]], il Colosso Grigio** **[[Natura]]:** Antico Treant (Ent) corazzato.
 
-Arboros è l'incarnazione della resistenza passiva della foresta. È un essere immenso, alto quanto una torre di guardia.
+[[Arboros]] è l'incarnazione della resistenza passiva della foresta. È un essere immenso, alto quanto una torre di guardia.
 
 - **Aspetto:** Nel corso dei millenni, il suo corpo legnoso ha assorbito talmente tanti metalli dal terreno che la sua corteccia è diventata una vera e propria armatura naturale di ferro organico. Muschio e ruggine coprono le sue spalle.
     
-- **Comportamento:** Arboros non è un nemico aperto di [[Impero di Trivellion|Trivellion]] (capisce che il ciclo della natura prevede anche la distruzione), ma agisce come un regolatore severo.
+- **Comportamento:** [[Arboros]] non è un nemico aperto di [[Impero di Trivellion|Trivellion]] (capisce che il ciclo della natura prevede anche la distruzione), ma agisce come un regolatore severo.
     
-    - **Il Patto Tacito:** Permette il taglio degli alberi nelle zone periferiche ("La Decima del Ferro"), ma se i boscaioli osano spingersi nel cuore antico della foresta o usano il fuoco in modo sconsiderato, Arboros si risveglia. Quando cammina, la terra trema come durante un terremoto; quando attacca, i suoi arti d'acciaio sbriciolano i macchinari a vapore come fossero giocattoli.
+    - **Il Patto Tacito:** Permette il taglio degli alberi nelle zone periferiche ("La Decima del Ferro"), ma se i boscaioli osano spingersi nel cuore antico della foresta o usano il fuoco in modo sconsiderato, [[Arboros]] si risveglia. Quando cammina, la terra trema come durante un terremoto; quando attacca, i suoi arti d'acciaio sbriciolano i macchinari a vapore come fossero giocattoli.
         
 - **Culto:** I prigionieri dei Ceppi spesso lasciano piccoli tributi di olio e bulloni alle radici degli alberi più grandi, sperando di placare la sua ira.

@@ -1,5 +1,5 @@
 > [!infobox]
-> # Rovine di Asmodeus
+> # [[Rovine di Asmodeus]]
 > *A differenza delle rovine caotiche o distrutte dal tempo, questo luogo è inquietantemente intatto e preservato. L'architettura non mostra segni di erosione, a dimostrazione della natura eterna e immut...*
 
 ### Descrizione del Luogo
@@ -22,7 +22,7 @@ A differenza delle rovine caotiche o distrutte dal tempo, questo luogo è inquie
 
 ### Il Varco Dimensionale
 
-Il vero scopo di queste rovine è fungere da "entrata di servizio" o canale diplomatico d'emergenza verso l'Isola Demonica (Dis-Athea).
+Il vero scopo di queste rovine è fungere da "entrata di servizio" o canale diplomatico d'emergenza verso l'[[Isola Demonica]] (Dis-Athea).
 
 - **Il Portale:** È un arco di ossidiana pura situato dietro la statua. Normalmente sembra uno specchio nero che non riflette nulla.
     

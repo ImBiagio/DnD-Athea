@@ -24,9 +24,9 @@ La porzione stabilizzata e abitabile, morfologicamente simile a due zanne ricurv
 
 Celestiali e Diavoli si stabilirono agli estremi geografici di Doublefang per sorvegliare l'Anomalia:
 
-- **Ovest - [[Isola Celestiale]] (Geografia/Isole Divine/Città di Lyra in onore alla dea della magia):** Presidiata dai Celestiali. Custodisce il _Portale dei Cieli_ (accesso a Elysium).
+- **Ovest - [[Isola Celestiale]] (Geografia/Isole Divine/[[Città di Lyra]] in onore alla dea della magia):** Presidiata dai Celestiali. Custodisce il _Portale dei Cieli_ (accesso a Elysium).
     
-- **Est - Isola Demonica (Città di Pandemonium):** Presidiata dai Diavoli. Custodisce il _Portale degli Inferi_ (accesso ai Nove Inferi).
+- **Est - [[Isola Demonica]] ([[Città di Pandemonium]]):** Presidiata dai Diavoli. Custodisce il _Portale degli Inferi_ (accesso ai Nove Inferi).
     
 
 **Integrazione Razziale (Genesi di Aasimar e Tiefling)** L'insediamento stabile di queste forze portò a un'inevitabile integrazione con la popolazione umana locale.
@@ -38,11 +38,11 @@ Celestiali e Diavoli si stabilirono agli estremi geografici di Doublefang per so
 [[Razze di Athea]]
     
 
-### La Migrazione Draconica e i Monti Efreei
+### La Migrazione Draconica e i [[Monti Efreei]]
 
-I Draghi, percependo l'instabilità delle terre basse e la pericolosità del Continente Elementale, migrarono in massa verso il confine settentrionale di Doublefang: i **Monti Efreei**. Questa catena montuosa funge da barriera fisica tra la zona abitabile e il caos elementale. In questo isolamento, due entità draconiche ascesero al rango di divinità minori, creando propri semipiani all'interno delle vette:
+I Draghi, percependo l'instabilità delle terre basse e la pericolosità del Continente Elementale, migrarono in massa verso il confine settentrionale di Doublefang: i **[[Monti Efreei]]**. Questa catena montuosa funge da barriera fisica tra la zona abitabile e il caos elementale. In questo isolamento, due entità draconiche ascesero al rango di divinità minori, creando propri semipiani all'interno delle vette:
 
-- **Auralia, la Madre Scintillante (Drago Metallico):**
+- **[[Auralia]], la Madre Scintillante (Drago Metallico):**
     
     - _Allineamento:_ Legale Buono.
         
@@ -50,7 +50,7 @@ I Draghi, percependo l'instabilità delle terre basse e la pericolosità del Con
         
     - _Ruolo:_ Guida dei draghi metallici e simbolo di protezione.
         
-- **Vorgath, la Rovina Eterna (Drago Cromatico):**
+- **[[Vorgath]], la Rovina Eterna (Drago Cromatico):**
     
     - _Allineamento:_ Caotico Malvagio.
         

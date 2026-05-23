@@ -1,5 +1,5 @@
 > [!infobox]
-> # Tixie Bullone
+> # [[Tixie Bullone]]
 > *...*
 
 # [[Tixie Bullone]]

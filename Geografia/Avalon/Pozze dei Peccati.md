@@ -1,4 +1,4 @@
 > [!infobox]
-> # Pozze dei Peccati
+> # [[Pozze dei Peccati]]
 > *...*
 

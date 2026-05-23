@@ -1,5 +1,5 @@
 > [!infobox]
-> # Accademia
+> # [[Accademia]]
 > *L'**[[Accademia]] di [[Città di Teja|Teja]]** (spesso semplicemente "L'[[Accademia]]") è il cardine della società magitech Imperiale. Qui si formano gli ingegneri arcani responsabili dello sviluppo de...*
 
 ## Overview

@@ -1,4 +1,4 @@
 > [!infobox]
-> # Fiume Riverwood
+> # [[Fiume Riverwood]]
 > *...*
 

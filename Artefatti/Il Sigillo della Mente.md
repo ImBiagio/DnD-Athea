@@ -1,5 +1,5 @@
 > [!infobox]
-> # Il Sigillo della Mente
+> # [[Il Sigillo della Mente]]
 > | | |
 > |---|---|
 > | **Tipologia** | Artefatto, Leggendario |
