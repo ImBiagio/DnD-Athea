@@ -100,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Atto 1 - Nel palazzo reale di Teja"
+              "title": "Riferimenti"
             }
           },
           {
@@ -119,12 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Atto 1 - Nel palazzo reale di Teja"
+              "title": "Collegamenti in uscita"
             }
           },
           {
@@ -148,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Atto 1 - Nel palazzo reale di Teja"
+              "title": "Struttura"
             }
           }
         ]
@@ -179,8 +176,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "474f1acf65d4f55d",
+  "active": "384f4e4dcc1381b7",
   "lastOpenFiles": [
+    "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
     "Athea_Knowledge_Base_Completa.md",
     "Geografia/Avalon/Foresta di Rata.md",
     "Geografia/Avalon/Foresta di Brun.md",
@@ -208,7 +206,6 @@
     "Eventi/Incidente di Illand.md",
     "Personaggi/Borg Mezza-Mano.md",
     "Campagna 2/Schermo del Master Teja-Trivellion.md",
-    "Campagna 2/Atto 1 - Nel palazzo reale di Teja.md",
     "Geografia/Alfheim",
     "Campagna 2/Workflow Campagna 2.canvas",
     "Senza nome 1.canvas",
